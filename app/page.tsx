@@ -36,7 +36,7 @@ export default function Home() {
     const errorM = () => {
       messageApi.open({
         type: "error",
-        content: "Ocorreu um erro ao submeter o pedido",
+        content: "Ocorreu um erro ao submeter o pedido.",
       });
     };
 
