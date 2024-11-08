@@ -109,6 +109,7 @@ export default function Home() {
                 name="coming-soon"
                 layout="vertical"
                 onFinish={onFinish}
+                style={{ color: "#000000" }}
               >
                 <Form.Item
                   name="name"
@@ -117,7 +118,7 @@ export default function Home() {
                     { required: true, message: "Por favor insira o seu nome" },
                   ]}
                 >
-                  <Input placeholder="O seu nome" />
+                  <Input className=" text-black" placeholder="O seu nome" />
                 </Form.Item>
 
                 <Form.Item
@@ -131,7 +132,7 @@ export default function Home() {
                     },
                   ]}
                 >
-                  <Input placeholder="O seu email" />
+                  <Input className=" text-black" placeholder="O seu email" />
                 </Form.Item>
 
                 <Form.Item
@@ -144,7 +145,10 @@ export default function Home() {
                     },
                   ]}
                 >
-                  <Input placeholder="O seu número de telemóvel" />
+                  <Input
+                    className=" text-black"
+                    placeholder="O seu número de telemóvel"
+                  />
                 </Form.Item>
 
                 <Form.Item>
@@ -153,6 +157,27 @@ export default function Home() {
                   </Button>
                 </Form.Item>
               </Form>
+
+              <div style={{ textAlign: "center", marginBottom: "2rem" }}>
+                <Title level={4} style={{ color: "#ffffff" }}>
+                  Contactos
+                </Title>
+                <Title level={5} style={{ color: "#ffffff" }}>
+                  Email:{" "}
+                  <a href="mailto:geral@einsteinexplicacoes.pt">
+                    geral@einsteinexplicacoes.pt
+                  </a>
+                </Title>
+                <Title level={5} style={{ color: "#ffffff" }}>
+                  Telefone: <a href="tel:+351910672248">+351 910 672 248</a>
+                </Title>
+                <Title level={5} style={{ color: "#ffffff" }}>
+                  Morada:{" "}
+                  <a href="geo:37.01980738462322,-7.926359569549336">
+                    R. Ataide de Oliveira 75, 8000-355 Faro
+                  </a>
+                </Title>
+              </div>
             </Col>
           </Row>
         </Content>
