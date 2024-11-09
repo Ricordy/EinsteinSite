@@ -110,7 +110,7 @@ export function Header() {
               </SheetContent>
             </Sheet>
           </div>
-          <div className="flex gap-8 items-center">
+          <div className="md:flex gap-8 items-center hidden">
             <Button className="bg-emerald-600 hover:bg-emerald-700 text-white hidden md:flex">
               {t("contactUs")}
             </Button>
