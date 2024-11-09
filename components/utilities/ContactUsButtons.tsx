@@ -37,6 +37,7 @@ const ContactUsButtons = ({ className, children }: ContactUsButtonsProps) => {
           "bg-emerald-600 hover:bg-emerald-700 text-white",
           className
         )}
+        size={"xl"}
       >
         {t("contactUs")}
       </Button>

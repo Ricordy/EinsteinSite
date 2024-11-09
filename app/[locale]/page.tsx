@@ -43,7 +43,7 @@ export default async function Home({
       <div className="bg-green-50 flex justify-center pb-20">
         <ContactUsButtons>
           <Button
-            size="lg"
+            size="xl"
             className="bg-emerald-700 hover:bg-emerald-800 text-white"
           >
             {tc("contactUs")}

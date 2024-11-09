@@ -15,8 +15,8 @@ export function Hero() {
             <p className="text-xl md:text-2xl">{t("description")}</p>
             <ContactUsButtons>
               <Button
-                size="lg"
-                className="bg-emerald-600 hover:bg-emerald-700 text-white"
+                size="xl"
+                className="bg-emerald-600 hover:bg-emerald-700 text-white mt-5"
               >
                 {t("contactUs")}
               </Button>
