@@ -44,16 +44,16 @@ export function Team() {
           opts={{
             align: "start",
           }}
-          className="w-full  mx-auto"
+          className="w-full   mx-auto"
         >
           <CarouselContent>
             {team.map((member) => (
               <CarouselItem
                 key={member.id}
-                className="md:basis-1/2 lg:basis-1/3"
+                className="md:basis-1/2 lg:basis-1/3 "
               >
                 <div className="p-1 flex flex-col items-center">
-                  <div className="relative w-32 h-32 mb-4">
+                  <div className="relative w-80 h-80 mb-4">
                     <Image
                       src={member.image}
                       alt={t("memberImageAlt", { name: member.name })}
