@@ -75,9 +75,9 @@
     }
   },
   "WhyUs": {
-    "title": "Porque nós?",
+    "title": "Porquê nós?",
     "experience": "Há mais de duas décadas que acompanhamos alunos no seu percurso escolar.",
-    "otherPhrase": "OUTRA FRASE",
+    "otherPhrase": "Oferecemos aulas individuais, em grupo e online para todas as disciplinas até o 12º ano e cursos universitários.",
     "excellence": "Garantimos ensino de excelência e guiamo-nos pelos métodos de ensino mais eficazes para os alunos."
   },
   "Team": {
@@ -85,19 +85,34 @@
     "memberImageAlt": "Foto de {name}",
     "roles": {
       "coordinator": "Coordenadora",
-      "portuguese": "Professora de Português",
-      "math": "Explicador de Matemática"
+      "portugueseM": "Explicador de Português",
+      "mathM": "Explicador de Matemática",
+      "portugueseF": "Explicadora de Português",
+      "mathF": "Explicadora de Matemática",
+      "englishF": "Explicadora de Inglês",
+      "englishM": "Explicador de Inglês",
+      "macsM": "Explicador de MACS",
+      "macsF": "Explicadora de MACS",
+      "cienciasM": "Explicador de Ciências",
+      "cienciasF": "Explicadora de Ciências"
     }
   },
   "Common": {
-    "contactUs": "Fale connosco"
+    "contactUs": "Contacte-nos"
   },
   "Testimonials": {
     "title": "Testemunhos",
+    "subject":{
+      "testimonial1": "Aluno de matemática",
+      "testimonial2": "Aluna de economia",
+      "testimonial3": "Aluna de literatura",
+      "testimonial4": "Aluna de economia"
+    },
     "content": {
       "testimonial1": "A explicadora Alexandra foi impecável comigo e sempre se mostrou disponível, recomendo a quem precisar de ajuda na área de contabilidade, pois eu sempre que precisei será explicadora Alexandra a quem irei recorrer.",
       "testimonial2": "O trabalho desenvolvido pela professora de Economia foi metódico, extremamente organizado e eficaz. Foi um trabalho responsável. A Experiência foi extraordinária e foram atingidos os resultados pretendidos.",
-      "testimonial3": "Professor muito bom, explica bem e tem flexibilidade de horário"
+      "testimonial3": "Professor muito bom, explica bem e tem flexibilidade de horário",
+      "testimonial4": "Obrigada pela excelente organizaçao e preparaçao para o exame"
     }
   },
   "Contact": {

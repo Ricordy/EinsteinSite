@@ -6,6 +6,7 @@ import { Stats } from "@/components/Stat";
 import { Team } from "@/components/Team";
 import { Testimonials } from "@/components/Testimonials";
 import { Button } from "@/components/ui/button";
+import ContactUsButtons from "@/components/utilities/ContactUsButtons";
 import { WhyUs } from "@/components/WhyUs";
 
 import { getTranslations } from "next-intl/server";
@@ -40,12 +41,14 @@ export default async function Home({
       <Stats />
       <OfferingCards />
       <div className="bg-green-50 flex justify-center pb-20">
-        <Button
-          size="lg"
-          className="bg-emerald-700 hover:bg-emerald-800 text-white"
-        >
-          {tc("contactUs")}
-        </Button>
+        <ContactUsButtons>
+          <Button
+            size="lg"
+            className="bg-emerald-700 hover:bg-emerald-800 text-white"
+          >
+            {tc("contactUs")}
+          </Button>
+        </ContactUsButtons>
       </div>
       <WhyUs />
       <Team />

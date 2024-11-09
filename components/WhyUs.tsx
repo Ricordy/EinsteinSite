@@ -5,7 +5,7 @@ export function WhyUs() {
   const t = useTranslations("WhyUs");
 
   return (
-    <section className="py-20 bg-green-50">
+    <section id="sobre" className="py-20 bg-green-50">
       <div className="container mx-auto px-4 lg:px-8">
         <Card className="w-full">
           <CardContent className="p-8 lg:p-12">

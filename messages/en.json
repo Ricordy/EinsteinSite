@@ -89,19 +89,34 @@
     "memberImageAlt": "Team member {name}",
     "roles": {
       "coordinator": "Coordinator",
-      "portuguese": "Portuguese Teacher",
-      "math": "Math Tutor"
+      "portugueseM": "Portuguese Tutor",
+      "mathM": "Math's Tutor",
+      "portugueseF": "Portuguese Tutor",
+      "mathF": "Math's Tutor",
+      "englishF": "English Tutor",
+      "englishM": "English Tutor",    
+      "macsM": "MACS Tutor",
+      "macsF": "MACS Tutor",
+      "cienciasM":  "Science Tutor",
+      "cienciasF":  "Science Tutor"
     }
   },
   "Common": {
-    "contactUs": "Fale connosco"
+    "contactUs": "Contact Us"
   },
   "Testimonials": {
     "title": "Testimonials",
+    "subject":{
+      "testimonial1": "Math student",
+      "testimonial2": "Economics student",
+      "testimonial3": "Literature student",
+      "testimonial4": "Economics student"
+    },
     "content": {
       "testimonial1": "Teacher Alexandra was impeccable with me and always showed availability, I recommend to anyone who needs help in accounting, as whenever I needed it will be teacher Alexandra who I will turn to.",
       "testimonial2": "The work developed by the Economics teacher was methodical, extremely organized and effective. It was responsible work. The experience was extraordinary and the intended results were achieved.",
-      "testimonial3": "Very well-explainative teacher with schedule flexibility"
+      "testimonial3": "Very well-explainative teacher with schedule flexibility",
+      "testimonial4": "Thank you for the excellent organization and preparation for the exam."
     }
   },
   "Contact": {

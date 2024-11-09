@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import {
@@ -8,6 +9,8 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 import { Card, CardContent } from "@/components/ui/card";
+import Autoplay from "embla-carousel-autoplay";
+import { Car } from "lucide-react";
 
 export function Team() {
   const t = useTranslations("Team");
@@ -23,13 +26,37 @@ export function Team() {
       id: 2,
       image: "/claudia.png",
       name: "Cláudia Luz",
-      role: "portuguese",
+      role: "portugueseF",
     },
     {
       id: 3,
       image: "/marcio.png",
       name: "Márcio Lourenço",
-      role: "math",
+      role: "mathM",
+    },
+    {
+      id: 4,
+      image: "/fatima.jpg",
+      name: "Fátima Moreno",
+      role: "englishF",
+    },
+    {
+      id: 5,
+      image: "/isabel.jpg",
+      name: "Isabel Lança",
+      role: "portugueseF",
+    },
+    {
+      id: 6,
+      image: "/anamoura.jpg",
+      name: "Ana Moura",
+      role: "cienciasF",
+    },
+    {
+      id: 7,
+      image: "/susanafigueiredeo.jpg",
+      name: "Susana Figueiredo",
+      role: "macsF",
     },
   ];
 
@@ -41,10 +68,15 @@ export function Team() {
         </h2>
 
         <Carousel
-          opts={{
-            align: "start",
-          }}
           className="w-full   mx-auto"
+          plugins={[
+            Autoplay({
+              delay: 1500,
+            }),
+          ]}
+          opts={{
+            loop: true,
+          }}
         >
           <CarouselContent>
             {team.map((member) => (

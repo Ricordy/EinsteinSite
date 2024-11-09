@@ -3,17 +3,23 @@ import { callMariaDB } from "@/lib/mariadb";
 
 export async function POST(req: Request) {
   try {
-    const { nome, email, telemovel } = await req.json(); // Parse the JSON body
+    const { nome, email, telemovel, mensagem } = await req.json(); // Parse the JSON body
 
-    if (!nome || !email || !telemovel) {
+    if (!nome || !email || !telemovel || !mensagem) {
       return NextResponse.json(
         { message: "Missing required fields" },
         { status: 400 }
       );
     }
 
-    const query = `INSERT INTO pedidos_contacto (nome, email, telemovel, idcentros) VALUES (?, ?, ?, ?)`;
-    const result = await callMariaDB(query, [nome, email, telemovel, 1]);
+    const query = `INSERT INTO pedidos_contacto (nome, email, telemovel, idcentros, mensagem) VALUES (?, ?, ?, ?, ?)`;
+    const result = await callMariaDB(query, [
+      nome,
+      email,
+      telemovel,
+      1,
+      mensagem,
+    ]);
 
     // If result contains BigInt, convert it to a string or other serializable format
     const serializedResult = JSON.parse(
