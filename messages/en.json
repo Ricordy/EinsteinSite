@@ -46,7 +46,9 @@
     "description": "We offer individual, group, and online classes for all subjects up to 12th grade and university courses."
   },
   "contactUs": {
-    "Offerings": {
+
+    }, 
+  "Offerings": {
         "title": "What do we offer?",
         "individualClasses": {
           "title": "Individual Classes",
@@ -75,20 +77,42 @@
           }
         }
       },
-    "WhyUs": {
+  "WhyUs": {
       "title": "Why us?",
-      "reason1": {
-        "title": "Experienced Teachers",
-        "description": "Our teachers have years of experience and are experts in their fields."
-      },
-      "reason2": {
-        "title": "Personalized Approach",
-        "description": "We tailor our teaching methods to each student's needs and learning style."
-      },
-      "reason3": {
-        "title": "Supportive Environment",
-        "description": "Our center provides a welcoming and supportive atmosphere for all students."
-      }
+    "experience": "We have more than 10 years of experience in guiding students to success.",
+    "otherPhrase": "We offer individual, group, and online classes for all subjects up to 12th grade and university courses.",
+    "excellence": "We have taught more than 80 subjects from middle school to university."
+    },
+  "Team": {
+    "title": "Meet Our Team",
+    "memberImageAlt": "Team member {name}",
+    "roles": {
+      "coordinator": "Coordinator",
+      "portuguese": "Portuguese Teacher",
+      "math": "Math Tutor"
+    }
+  },
+  "Common": {
+    "contactUs": "Fale connosco"
+  },
+  "Testimonials": {
+    "title": "Testimonials",
+    "content": {
+      "testimonial1": "Teacher Alexandra was impeccable with me and always showed availability, I recommend to anyone who needs help in accounting, as whenever I needed it will be teacher Alexandra who I will turn to.",
+      "testimonial2": "The work developed by the Economics teacher was methodical, extremely organized and effective. It was responsible work. The experience was extraordinary and the intended results were achieved.",
+      "testimonial3": "Very well-explained teacher with schedule flexibility"
+    }
+  },
+  "Contact": {
+    "interested": "Interested?",
+    "talkToUs": "Talk to us",
+    "address": "Main Street, 123, Lisbon",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone number",
+      "message": "Message",
+      "submit": "Send message"
     }
   }
 }

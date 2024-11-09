@@ -1,8 +1,10 @@
+import { ContactSection } from "@/components/ContactSection";
 import { Hero } from "@/components/Hero";
 import { Header } from "@/components/navbar/Navbar";
 import { OfferingCards } from "@/components/OfferingCards";
 import { Stats } from "@/components/Stat";
 import { Team } from "@/components/Team";
+import { Testimonials } from "@/components/Testimonials";
 import { Button } from "@/components/ui/button";
 import { WhyUs } from "@/components/WhyUs";
 
@@ -46,6 +48,8 @@ export default async function Home({
       </div>
       <WhyUs />
       <Team />
+      <Testimonials />
+      <ContactSection />
     </>
   );
 }

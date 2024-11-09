@@ -91,6 +91,26 @@
   },
   "Common": {
     "contactUs": "Fale connosco"
+  },
+  "Testimonials": {
+    "title": "Testemunhos",
+    "content": {
+      "testimonial1": "A explicadora Alexandra foi impecável comigo e sempre se mostrou disponível, recomendo a quem precisar de ajuda na área de contabilidade, pois eu sempre que precisei será explicadora Alexandra a quem irei recorrer.",
+      "testimonial2": "O trabalho desenvolvido pela professora de Economia foi metódico, extremamente organizado e eficaz. Foi um trabalho responsável. A Experiência foi extraordinária e foram atingidos os resultados pretendidos.",
+      "testimonial3": "Professora muito bem explicita e com flexibilidade de horário"
+    }
+  },
+  "Contact": {
+    "interested": "Ficou interessado?",
+    "talkToUs": "Fale connosco",
+    "address": "Rua Principal, 123, Lisboa",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "phone": "Número de telefone",
+      "message": "Mensagem",
+      "submit": "Enviar mensagem"
+    }
   }
 }
 
