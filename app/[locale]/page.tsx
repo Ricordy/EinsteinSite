@@ -31,6 +31,7 @@ export default async function Home({
   const messages = (await import(`../../messages/${locale}.json`)).default;
 
   const t = await getTranslations({ locale, namespace: "Metadata" });
+  const tc = await getTranslations({ locale, namespace: "Common" });
 
   return (
     <>
@@ -43,7 +44,7 @@ export default async function Home({
           size="lg"
           className="bg-emerald-700 hover:bg-emerald-800 text-white"
         >
-          {t("contactUs")}
+          {tc("contactUs")}
         </Button>
       </div>
       <WhyUs />

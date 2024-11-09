@@ -12,7 +12,7 @@ export function Header() {
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center">
             <Image
-              src="/placeholder.svg"
+              src="/EinsteinLogoGreen.svg"
               alt={t("logo")}
               width={40}
               height={40}

@@ -21,14 +21,19 @@ export function ContactSection() {
           <div>
             <div className="mb-8">
               <Image
-                src="/placeholder.svg"
+                src="/EinsteinLogoGreen.svg"
                 alt="Einstein Explicações Logo"
                 width={120}
                 height={120}
                 className="mb-4"
               />
               <h3 className="text-xl font-bold mb-2">Einstein Explicações</h3>
-              <p className="text-gray-600">{t("address")}</p>
+              <Link
+                className="text-gray-600 "
+                href="geo:37.01980738462322,-7.926359569549336"
+              >
+                {t("address")}
+              </Link>
             </div>
 
             <div className="space-y-4">
@@ -37,17 +42,17 @@ export function ContactSection() {
                 className="flex items-center gap-3 text-gray-600 hover:text-gray-900"
               >
                 <Mail className="h-5 w-5" />
-                contact@example.com
+                geral@einsteinexplicacoes.pt
               </Link>
               <Link
-                href="tel:+351123456789"
+                href="tel:+351910672248"
                 className="flex items-center gap-3 text-gray-600 hover:text-gray-900"
               >
                 <Phone className="h-5 w-5" />
-                +351 123 456 789
+                +351 910 672 248
               </Link>
               <Link
-                href="https://facebook.com"
+                href="https://www.facebook.com/EinsteinExplicacoesFaro"
                 target="_blank"
                 className="flex items-center gap-3 text-gray-600 hover:text-gray-900"
               >
@@ -55,7 +60,7 @@ export function ContactSection() {
                 Facebook
               </Link>
               <Link
-                href="https://instagram.com"
+                href="https://www.instagram.com/einstein.explicacao/"
                 target="_blank"
                 className="flex items-center gap-3 text-gray-600 hover:text-gray-900"
               >

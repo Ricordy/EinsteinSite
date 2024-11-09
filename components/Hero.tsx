@@ -21,10 +21,10 @@ export function Hero() {
           </div>
           <div className="relative h-[400px] lg:h-[500px]">
             <Image
-              src="/placeholder.svg"
+              src="/test2.png"
               alt={t("heroImage")}
               fill
-              className="object-contain"
+              className="object-contain scale-[1.35] "
               priority
             />
           </div>

@@ -1,5 +1,13 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselNext,
+  CarouselPrevious,
+} from "@/components/ui/carousel";
+import { Card, CardContent } from "@/components/ui/card";
 
 export function Team() {
   const t = useTranslations("Team");
@@ -7,19 +15,19 @@ export function Team() {
   const team = [
     {
       id: 1,
-      image: "/placeholder.svg",
-      name: "Ana Silva",
+      image: "/alex.png",
+      name: "Alexandra Cativo Quintas",
       role: "coordinator",
     },
     {
       id: 2,
-      image: "/placeholder.svg",
-      name: "Maria Santos",
+      image: "/claudia.png",
+      name: "Cláudia Luz",
       role: "portuguese",
     },
     {
       id: 3,
-      image: "/placeholder.svg",
+      image: "/marcio.png",
       name: "Márcio Lourenço",
       role: "math",
     },
@@ -31,25 +39,27 @@ export function Team() {
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
           {t("title")}
         </h2>
-        <div className="grid md:grid-cols-3 gap-12 max-w-3xl mx-auto">
-          {team.map((member) => (
-            <div
-              key={member.id}
-              className="flex flex-col items-center text-center"
-            >
-              <div className="relative w-48 h-48 mb-4">
-                <Image
-                  src={member.image}
-                  alt={t("memberImageAlt", { name: member.name })}
-                  fill
-                  className="rounded-full object-cover"
-                />
-              </div>
-              <h3 className="text-xl font-semibold">{member.name}</h3>
-              <p className="text-gray-600">{t(`roles.${member.role}`)}</p>
-            </div>
-          ))}
-        </div>
+
+        <Carousel className="w-full  mx-auto">
+          <CarouselContent>
+            {team.map((member) => (
+              <CarouselItem key={member.id} className="basis-1/3">
+                <div className="p-1">
+                  <div className="relative w-32 h-32 mb-4">
+                    <Image
+                      src={member.image}
+                      alt={t("memberImageAlt", { name: member.name })}
+                      fill
+                      className="rounded-full object-cover"
+                    />
+                  </div>
+                  <h3 className="text-xl font-semibold">{member.name}</h3>
+                  <p className="text-gray-600">{t(`roles.${member.role}`)}</p>
+                </div>
+              </CarouselItem>
+            ))}
+          </CarouselContent>
+        </Carousel>
       </div>
     </section>
   );

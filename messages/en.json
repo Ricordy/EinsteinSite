@@ -43,7 +43,8 @@
   },
   "Metadata": {
     "title": "Education Center - Your Path to Success",
-    "description": "We offer individual, group, and online classes for all subjects up to 12th grade and university courses."
+    "description": "We offer individual, group, and online classes for all subjects up to 12th grade and university courses.",
+    "contactUs": "Contact Us"
   },
   "contactUs": {
 
@@ -100,13 +101,13 @@
     "content": {
       "testimonial1": "Teacher Alexandra was impeccable with me and always showed availability, I recommend to anyone who needs help in accounting, as whenever I needed it will be teacher Alexandra who I will turn to.",
       "testimonial2": "The work developed by the Economics teacher was methodical, extremely organized and effective. It was responsible work. The experience was extraordinary and the intended results were achieved.",
-      "testimonial3": "Very well-explained teacher with schedule flexibility"
+      "testimonial3": "Very well-explainative teacher with schedule flexibility"
     }
   },
   "Contact": {
     "interested": "Interested?",
     "talkToUs": "Talk to us",
-    "address": "Main Street, 123, Lisbon",
+    "address": "Street Ataide De Oliveira 73b Store 9, FARO, PT, 8000-218",
     "form": {
       "name": "Name",
       "email": "Email",

@@ -8,7 +8,7 @@ export function OfferingCards() {
   const offerings = [
     {
       title: "individualClasses",
-      image: "/placeholder.svg",
+      image: "/girlwithbook.png",
       features: [
         "personalizedLessons",
         "flexibleSchedule",
@@ -17,12 +17,12 @@ export function OfferingCards() {
     },
     {
       title: "groupClasses",
-      image: "/placeholder.svg",
+      image: "/students.png",
       features: ["contentVariety", "softSkills", "feedback"],
     },
     {
       title: "onlineClasses",
-      image: "/placeholder.svg",
+      image: "/onlineclasses.jpg",
       features: ["anywhereAccess", "continuousCommunication"],
     },
   ];
