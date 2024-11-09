@@ -40,11 +40,19 @@ export function Team() {
           {t("title")}
         </h2>
 
-        <Carousel className="w-full  mx-auto">
+        <Carousel
+          opts={{
+            align: "start",
+          }}
+          className="w-full  mx-auto"
+        >
           <CarouselContent>
             {team.map((member) => (
-              <CarouselItem key={member.id} className="basis-1/3">
-                <div className="p-1">
+              <CarouselItem
+                key={member.id}
+                className="md:basis-1/2 lg:basis-1/3"
+              >
+                <div className="p-1 flex flex-col items-center">
                   <div className="relative w-32 h-32 mb-4">
                     <Image
                       src={member.image}

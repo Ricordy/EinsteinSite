@@ -20,6 +20,9 @@ importers:
       einstein-site-n:
         specifier: 'file:'
         version: file:(@types/react@18.3.12)(tailwindcss@3.4.14)
+      embla-carousel-autoplay:
+        specifier: ^8.3.1
+        version: 8.3.1(embla-carousel@8.3.1)
       embla-carousel-react:
         specifier: ^8.3.1
         version: 8.3.1(react@18.3.1)
@@ -697,6 +700,11 @@ packages:
 
   'einstein-site-n@file:':
     resolution: {directory: '', type: directory}
+
+  embla-carousel-autoplay@8.3.1:
+    resolution: {integrity: sha512-L8THF1AJJSQtlNa1wZ6lEKh/CiZssE3TsVFtabQNsS+pc1O1O/YTIYCC3khdQAztGMOBf3WfVDIY/4AIfQj3JQ==}
+    peerDependencies:
+      embla-carousel: 8.3.1
 
   embla-carousel-react@8.3.1:
     resolution: {integrity: sha512-gBY0zM+2ASvKFwRpTIOn2SLifFqOKKap9R/y0iCpJWS3bc8OHVEn2gAThGYl2uq0N+hu9aBiswffL++OYZOmDQ==}
@@ -2737,6 +2745,7 @@ snapshots:
       '@radix-ui/react-slot': 1.1.0(@types/react@18.3.12)(react@18.3.1)
       class-variance-authority: 0.7.0
       clsx: 2.1.1
+      embla-carousel-react: 8.3.1(react@18.3.1)
       lucide-react: 0.456.0(react@18.3.1)
       next: 14.2.5(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       next-intl: 3.25.0(next@14.2.5(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
@@ -2752,6 +2761,10 @@ snapshots:
       - babel-plugin-macros
       - sass
       - tailwindcss
+
+  embla-carousel-autoplay@8.3.1(embla-carousel@8.3.1):
+    dependencies:
+      embla-carousel: 8.3.1
 
   embla-carousel-react@8.3.1(react@18.3.1):
     dependencies:
