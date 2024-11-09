@@ -1,0 +1,134 @@
+{
+  "Header": {
+    "logo": "Logo",
+    "offerings": "What We Offer",
+    "about": "About Us",
+    "contacts": "Contacts",
+    "contactUs": "Contact Us"
+  },
+  "Hero": {
+    "title": "Success is our mission:",
+    "description": "Individual, group, and online classes for all subjects up to 12th grade and more than 50 university courses!",
+    "contactUs": "Contact Us",
+    "heroImage": "Happy student with laptop"
+  },
+  "Stats": {
+    "years": {
+      "value": "+ 10",
+      "description": "years guiding students to success"
+    },
+    "subjects": {
+      "value": "+ 80",
+      "description": "subjects taught from middle school to university"
+    },
+    "students": {
+      "value": "+ 1,500",
+      "description": "students have passed through our center"
+    }
+  },
+  "Services": {
+    "title": "What do we offer?",
+    "service1": {
+      "title": "Individual Classes",
+      "description": "Personalized attention for maximum learning"
+    },
+    "service2": {
+      "title": "Group Classes",
+      "description": "Collaborative learning in a supportive environment"
+    },
+    "service3": {
+      "title": "Online Classes",
+      "description": "Flexible learning from the comfort of your home"
+    }
+  },
+  "Metadata": {
+    "title": "Education Center - Your Path to Success",
+    "description": "We offer individual, group, and online classes for all subjects up to 12th grade and university courses.",
+    "contactUs": "Contact Us"
+  },
+  "contactUs": {
+
+    }, 
+  "Offerings": {
+        "title": "What do we offer?",
+        "individualClasses": {
+          "title": "Individual Classes",
+          "imageAlt": "Student with books",
+          "features": {
+            "personalizedLessons": "Personalized lessons",
+            "flexibleSchedule": "Flexible schedule",
+            "immediateFeedback": "Immediate feedback"
+          }
+        },
+        "groupClasses": {
+          "title": "Group Classes",
+          "imageAlt": "Group of students",
+          "features": {
+            "contentVariety": "Variety of content",
+            "softSkills": "Soft skills development",
+            "feedback": "Immediate feedback"
+          }
+        },
+        "onlineClasses": {
+          "title": "Online Classes",
+          "imageAlt": "Student in an online class",
+          "features": {
+            "anywhereAccess": "Study from anywhere with internet access",
+            "continuousCommunication": "Continuous online communication"
+          }
+        }
+      },
+  "WhyUs": {
+      "title": "Why us?",
+    "experience": "We have more than 10 years of experience in guiding students to success.",
+    "otherPhrase": "We offer individual, group, and online classes for all subjects up to 12th grade and university courses.",
+    "excellence": "We have taught more than 80 subjects from middle school to university."
+    },
+  "Team": {
+    "title": "Meet Our Team",
+    "memberImageAlt": "Team member {name}",
+    "roles": {
+      "coordinator": "Coordinator",
+      "portugueseM": "Portuguese Tutor",
+      "mathM": "Math's Tutor",
+      "portugueseF": "Portuguese Tutor",
+      "mathF": "Math's Tutor",
+      "englishF": "English Tutor",
+      "englishM": "English Tutor",    
+      "macsM": "MACS Tutor",
+      "macsF": "MACS Tutor",
+      "cienciasM":  "Science Tutor",
+      "cienciasF":  "Science Tutor"
+    }
+  },
+  "Common": {
+    "contactUs": "Contact Us"
+  },
+  "Testimonials": {
+    "title": "Testimonials",
+    "subject":{
+      "testimonial1": "Math student",
+      "testimonial2": "Economics student",
+      "testimonial3": "Literature student",
+      "testimonial4": "Economics student"
+    },
+    "content": {
+      "testimonial1": "Teacher Alexandra was impeccable with me and always showed availability, I recommend to anyone who needs help in accounting, as whenever I needed it will be teacher Alexandra who I will turn to.",
+      "testimonial2": "The work developed by the Economics teacher was methodical, extremely organized and effective. It was responsible work. The experience was extraordinary and the intended results were achieved.",
+      "testimonial3": "Very well-explainative teacher with schedule flexibility",
+      "testimonial4": "Thank you for the excellent organization and preparation for the exam."
+    }
+  },
+  "Contact": {
+    "interested": "Interested?",
+    "talkToUs": "Talk to us",
+    "address": "Street Ataide De Oliveira 73b Store 9, FARO, PT, 8000-218",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone number",
+      "message": "Message",
+      "submit": "Send message"
+    }
+  }
+}

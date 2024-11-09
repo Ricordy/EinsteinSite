@@ -1,0 +1,131 @@
+{
+  "Header": {
+    "logo": "Logo",
+    "offerings": "O que oferecemos",
+    "about": "Sobre nós",
+    "contacts": "Contactos",
+    "contactUs": "Contacte-nos"
+  },
+  "Hero": {
+    "title": "Sucesso é nossa missão:",
+    "description": "aulas individuais, em grupo e online para todas as disciplinas até o 12.º ano e mais de 50 universitárias!",
+    "contactUs": "Contacte-nos",
+    "heroImage": "Estudante feliz com laptop"
+  },
+  "Stats": {
+    "years": {
+      "value": "+ 10",
+      "description": "anos a guiar alunos ao sucesso"
+    },
+    "subjects": {
+      "value": "+ 80",
+      "description": "disciplinas lecionadas do 2.º ciclo ao universitário"
+    },
+    "students": {
+      "value": "+ 1.500",
+      "description": "alunos passaram pelo centro"
+    }
+  },
+  "Services": {
+    "title": "O que oferecemos?",
+    "service1": {
+      "title": "Aulas Individuais",
+      "description": "Atenção personalizada para máximo aprendizado"
+    },
+    "service2": {
+      "title": "Aulas em Grupo",
+      "description": "Aprendizagem colaborativa em um ambiente de apoio"
+    },
+    "service3": {
+      "title": "Aulas Online",
+      "description": "Aprendizagem flexível no conforto da sua casa"
+    }
+  },
+  "Metadata": {
+    "title": "Centro Educacional - Seu Caminho para o Sucesso",
+    "description": "Oferecemos aulas individuais, em grupo e online para todas as disciplinas até o 12.º ano e cursos universitários."
+  },
+  "Offerings": {
+    "title": "O que oferecemos?",
+    "individualClasses": {
+      "title": "Aulas individuais",
+      "imageAlt": "Estudante com livros",
+      "features": {
+        "personalizedLessons": "Lições personalizadas",
+        "flexibleSchedule": "Flexibilidade de horários",
+        "immediateFeedback": "Feedback imediato"
+      }
+    },
+    "groupClasses": {
+      "title": "Aulas de grupo",
+      "imageAlt": "Grupo de estudantes",
+      "features": {
+        "contentVariety": "Variedade de conteúdo",
+        "softSkills": "Desenvolvimento de soft skills",
+        "feedback": "Feedback imediato"
+      }
+    },
+    "onlineClasses": {
+      "title": "Aulas online",
+      "imageAlt": "Estudante em aula online",
+      "features": {
+        "anywhereAccess": "Estude de qualquer lugar com acesso à internet",
+        "continuousCommunication": "Comunicação online contínua"
+      }
+    }
+  },
+  "WhyUs": {
+    "title": "Porquê nós?",
+    "experience": "Há mais de duas décadas que acompanhamos alunos no seu percurso escolar.",
+    "otherPhrase": "Oferecemos aulas individuais, em grupo e online para todas as disciplinas até o 12º ano e cursos universitários.",
+    "excellence": "Garantimos ensino de excelência e guiamo-nos pelos métodos de ensino mais eficazes para os alunos."
+  },
+  "Team": {
+    "title": "Conheça a nossa equipa",
+    "memberImageAlt": "Foto de {name}",
+    "roles": {
+      "coordinator": "Coordenadora",
+      "portugueseM": "Explicador de Português",
+      "mathM": "Explicador de Matemática",
+      "portugueseF": "Explicadora de Português",
+      "mathF": "Explicadora de Matemática",
+      "englishF": "Explicadora de Inglês",
+      "englishM": "Explicador de Inglês",
+      "macsM": "Explicador de MACS",
+      "macsF": "Explicadora de MACS",
+      "cienciasM": "Explicador de Ciências",
+      "cienciasF": "Explicadora de Ciências"
+    }
+  },
+  "Common": {
+    "contactUs": "Contacte-nos"
+  },
+  "Testimonials": {
+    "title": "Testemunhos",
+    "subject":{
+      "testimonial1": "Aluno de matemática",
+      "testimonial2": "Aluna de economia",
+      "testimonial3": "Aluna de literatura",
+      "testimonial4": "Aluna de economia"
+    },
+    "content": {
+      "testimonial1": "A explicadora Alexandra foi impecável comigo e sempre se mostrou disponível, recomendo a quem precisar de ajuda na área de contabilidade, pois eu sempre que precisei será explicadora Alexandra a quem irei recorrer.",
+      "testimonial2": "O trabalho desenvolvido pela professora de Economia foi metódico, extremamente organizado e eficaz. Foi um trabalho responsável. A Experiência foi extraordinária e foram atingidos os resultados pretendidos.",
+      "testimonial3": "Professor muito bom, explica bem e tem flexibilidade de horário",
+      "testimonial4": "Obrigada pela excelente organizaçao e preparaçao para o exame"
+    }
+  },
+  "Contact": {
+    "interested": "Ficou interessado?",
+    "talkToUs": "Fale connosco",
+    "address": "Rua Ataide De Oliveira 73b Loja 9, FARO, PT, 8000-218",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "phone": "Número de telefone",
+      "message": "Mensagem",
+      "submit": "Enviar mensagem"
+    }
+  }
+}
+

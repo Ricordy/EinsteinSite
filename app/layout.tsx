@@ -7,8 +7,6 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Einstein Explicações",
   description: "Centro de Explicações Einstein",
-  
-
 };
 
 export default function RootLayout({
