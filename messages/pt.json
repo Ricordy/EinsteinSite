@@ -1,0 +1,96 @@
+{
+  "Header": {
+    "logo": "Logo",
+    "offerings": "O que oferecemos",
+    "about": "Sobre nós",
+    "contacts": "Contactos",
+    "contactUs": "Contacte-nos"
+  },
+  "Hero": {
+    "title": "Sucesso é nossa missão:",
+    "description": "aulas individuais, em grupo e online para todas as disciplinas até o 12.º ano e mais de 50 universitárias!",
+    "contactUs": "Contacte-nos",
+    "heroImage": "Estudante feliz com laptop"
+  },
+  "Stats": {
+    "years": {
+      "value": "+ 10",
+      "description": "anos a guiar alunos ao sucesso"
+    },
+    "subjects": {
+      "value": "+ 80",
+      "description": "disciplinas lecionadas do 2.º ciclo ao universitário"
+    },
+    "students": {
+      "value": "+ 1.500",
+      "description": "alunos passaram pelo centro"
+    }
+  },
+  "Services": {
+    "title": "O que oferecemos?",
+    "service1": {
+      "title": "Aulas Individuais",
+      "description": "Atenção personalizada para máximo aprendizado"
+    },
+    "service2": {
+      "title": "Aulas em Grupo",
+      "description": "Aprendizagem colaborativa em um ambiente de apoio"
+    },
+    "service3": {
+      "title": "Aulas Online",
+      "description": "Aprendizagem flexível no conforto da sua casa"
+    }
+  },
+  "Metadata": {
+    "title": "Centro Educacional - Seu Caminho para o Sucesso",
+    "description": "Oferecemos aulas individuais, em grupo e online para todas as disciplinas até o 12.º ano e cursos universitários."
+  },
+  "Offerings": {
+    "title": "O que oferecemos?",
+    "individualClasses": {
+      "title": "Aulas individuais",
+      "imageAlt": "Estudante com livros",
+      "features": {
+        "personalizedLessons": "Lições personalizadas",
+        "flexibleSchedule": "Flexibilidade de horários",
+        "immediateFeedback": "Feedback imediato"
+      }
+    },
+    "groupClasses": {
+      "title": "Aulas de grupo",
+      "imageAlt": "Grupo de estudantes",
+      "features": {
+        "contentVariety": "Variedade de conteúdo",
+        "softSkills": "Desenvolvimento de soft skills",
+        "feedback": "Feedback imediato"
+      }
+    },
+    "onlineClasses": {
+      "title": "Aulas online",
+      "imageAlt": "Estudante em aula online",
+      "features": {
+        "anywhereAccess": "Estude de qualquer lugar com acesso à internet",
+        "continuousCommunication": "Comunicação online contínua"
+      }
+    }
+  },
+  "WhyUs": {
+    "title": "Porque nós?",
+    "experience": "Há mais de duas décadas que acompanhamos alunos no seu percurso escolar.",
+    "otherPhrase": "OUTRA FRASE",
+    "excellence": "Garantimos ensino de excelência e guiamo-nos pelos métodos de ensino mais eficazes para os alunos."
+  },
+  "Team": {
+    "title": "Conheça a nossa equipa",
+    "memberImageAlt": "Foto de {name}",
+    "roles": {
+      "coordinator": "Coordenadora",
+      "portuguese": "Professora de Português",
+      "math": "Explicador de Matemática"
+    }
+  },
+  "Common": {
+    "contactUs": "Fale connosco"
+  }
+}
+
