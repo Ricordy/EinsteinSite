@@ -44,6 +44,9 @@ export function Header() {
               height={60}
               className="h-15 w-15"
             />
+            <span className="hidden md:inline-block ml-2 text-xl font-semibold text-black">
+              Einstein Explicações
+            </span>
           </Link>
 
           {/* Desktop Navigation */}
