@@ -138,5 +138,38 @@
       "message": "Message",
       "submit": "Send message"
     }
-  }
+  },
+   "about": {
+    "purpose": {
+        "title": "Purpose",
+        "description": "Teaching the Future to our students"
+    },
+    "mission": {
+        "title": "Mission",
+        "description": " <p>Create strong and lasting bonds with students and guardians, providing excellence in teaching and differentiated attention to each one as if they were unique with a view to obtaining the desired school results.</p> <p>Cultivate the ability to face school/academic challenges with confidence and determination</p>"
+    },
+    "values": {
+        "title": "Values",
+        "subtitle": "Our values are:",
+        "list": [
+         "Passion for teaching, only then can we help our students achieve their goals",
+          "Excellence in how we work",
+          "Respect for all who relate to us, so that everyone, customers and suppliers, enjoy working with us",
+          "Responsibility towards society and the planet",
+          "Honesty and integrity in how we relate and are in teaching"
+        ]
+    },
+    "vision": {
+        "title": "Vision",
+        "subtitle": "Where do we want to go?",
+        "tutors": {
+          "title": "For Tutors",
+          "description": "We want to be a place where they enjoy working"
+        },
+        "students": {
+          "title": "For students and their guardians",
+          "description": "We want to be the reference tutoring center in Algarve where students achieve excellence and everyone trusts."
+        }
+    }
+  } 
 }

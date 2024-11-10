@@ -1,3 +1,4 @@
+import AboutSection from "@/components/AboutSection";
 import { ContactSection } from "@/components/ContactSection";
 import { Hero } from "@/components/Hero";
 import { Header } from "@/components/navbar/Navbar";
@@ -50,6 +51,7 @@ export default async function Home({
           </Button>
         </ContactUsButtons>
       </div>
+      <AboutSection />
       <WhyUs />
       <Team />
       <Testimonials />

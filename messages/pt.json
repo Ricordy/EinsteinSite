@@ -135,6 +135,39 @@
       "message": "Mensagem",
       "submit": "Enviar mensagem"
     }
-  }
+  },
+   "about": {
+    "purpose": {
+        "title": "Propósito",
+        "description": "Ensinar o Futuro aos nossos alunos"
+    },
+    "mission": {
+        "title": "Missão",
+        "description": " <p>Criar vínculos fortes e duradouros com os explicandos e encarregados de educação, proporcionando ensino de excelência e atenção diferenciada a cada um como se fosse único com vista à obtenção dos resultados escolares pretendidos.</p> <p>Cultivar a capacidade de enfrentar desafios escolares/académicos com confiança edeterminação</p> "
+    },
+    "values": {
+        "title": "Valores",
+        "subtitle": "Os nossos valores são:",
+        "list": [
+          "Paixão pelo ensino, só assim ajudamos os nossos explicandos a atingir os seus objetivos",
+          "Excelência na forma como trabalhamos",
+          "Respeito por todos os que relacionam connosco, para que todos, clientes e fornecedores, tenham prazer em trabalhar connosco",
+          "Responsabilidade para com a sociedade e o planeta",
+          "Honestidade e integridade na forma como nos relacionamos e estamos no ensino"
+        ]
+    },
+    "vision": {
+        "title": "Visão",
+        "subtitle": "Onde queremos ir?",
+        "tutors": {
+          "title": "Para os Explicadores",
+          "description": "Queremos ser um local onde estes tenham prazer em trabalhar"
+        },
+        "students": {
+          "title": "Para os explicandos e seus encarregados de educação",
+          "description": "Queremos ser o centro de explicações de referência no Algarve onde os explicandos atingem a excelência e em que todos confiam."
+        }
+    }
+  } 
 }
 
