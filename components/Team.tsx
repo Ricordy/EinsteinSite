@@ -26,7 +26,7 @@ export function Team() {
       id: 2,
       image: "/claudia.png",
       name: "Cláudia Luz",
-      role: "portugueseF",
+      role: "geoF",
     },
     {
       id: 3,

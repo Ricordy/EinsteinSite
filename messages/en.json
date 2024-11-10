@@ -97,8 +97,16 @@
       "englishM": "English Tutor",    
       "macsM": "MACS Tutor",
       "macsF": "MACS Tutor",
-      "cienciasM":  "Science Tutor",
-      "cienciasF":  "Science Tutor"
+      "cienciasM":  "Biology and Giology Tutor",
+      "cienciasF":  "Biology and Giology Tutor",
+      "geoM": "Geography Tutor",
+      "geoF": "Geography Tutor",
+      "historyF": "History Tutor",
+      "historyM": "History Tutor",
+      "philosophyM": "Philosophy Tutor",
+      "philosophyF": "Philosophy Tutor",
+      "contabilidadeM": "Accounting Tutor",
+      "contabilidadeF": "Accounting Tutor"
     }
   },
   "Common": {
@@ -107,7 +115,7 @@
   "Testimonials": {
     "title": "Testimonials",
     "subject":{
-      "testimonial1": "Math student",
+      "testimonial1": "Accounting student",
       "testimonial2": "Economics student",
       "testimonial3": "Literature student",
       "testimonial4": "Economics student"
