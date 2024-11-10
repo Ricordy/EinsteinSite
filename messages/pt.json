@@ -94,8 +94,16 @@
       "englishM": "Explicador de Inglês",
       "macsM": "Explicador de MACS",
       "macsF": "Explicadora de MACS",
-      "cienciasM": "Explicador de Ciências",
-      "cienciasF": "Explicadora de Ciências"
+      "cienciasM": "Explicador de Biologia e Geologia",
+      "cienciasF": "Explicadora de Biologia e Geologia",
+      "geoM": "Explicador de Geografia",
+      "geoF": "Explicadora de Geografia",
+      "historyM": "Explicador de História",
+      "historyF": "Explicadora de História",
+      "philosophyM": "Explicador de Filosofia",
+      "philosophyF": "Explicadora de Filosofia",
+      "contabilidadeM": "Explicador de Contabilidade",
+      "contabilidadeF": "Explicadora de Contabilidade"
     }
   },
   "Common": {
@@ -104,7 +112,7 @@
   "Testimonials": {
     "title": "Testemunhos",
     "subject":{
-      "testimonial1": "Aluno de matemática",
+      "testimonial1": "Aluno de contabilidade",
       "testimonial2": "Aluna de economia",
       "testimonial3": "Aluna de literatura",
       "testimonial4": "Aluna de economia"

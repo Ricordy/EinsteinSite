@@ -47,6 +47,12 @@ export function Testimonials() {
       subject: "testimonial3",
       content: "testimonial3",
     },
+    {
+      id: 4,
+      name: "Joana Silva",
+      subject: "testimonial4",
+      content: "testimonial4",
+    },
   ];
 
   return (

@@ -37,9 +37,9 @@ export function Header() {
             <Image
               src="/EinsteinLogoGreen.svg"
               alt={t("logo")}
-              width={40}
-              height={40}
-              className="h-10 w-10"
+              width={60}
+              height={60}
+              className="h-15 w-15"
             />
           </Link>
 
