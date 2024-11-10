@@ -38,7 +38,7 @@ export function Header() {
         <div className="flex h-16 items-center justify-between px-4">
           <Link href="/" className="flex items-center">
             <Image
-              src="/EinsteinLogoGreen.svg"
+              src="/EinsteinLogoGregb.svg"
               alt={t("logo")}
               width={60}
               height={60}
@@ -105,11 +105,44 @@ export function Header() {
                   </ContactUsButtons>
                   <Select onValueChange={handleLanguageChange} value={locale}>
                     <SelectTrigger className="w-fit">
-                      <SelectValue>{locale.toUpperCase()}</SelectValue>
+                      <SelectValue>
+                        <div className="flex items-center">
+                          <Image
+                            src={`/flags/${locale}.svg`}
+                            alt={locale}
+                            width={16}
+                            height={16}
+                            className="mr-2"
+                          />
+                          {locale.toUpperCase()}
+                        </div>
+                      </SelectValue>
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="en">EN</SelectItem>
-                      <SelectItem value="pt">PT</SelectItem>
+                      <SelectItem value="en">
+                        <div className="flex items-center">
+                          <Image
+                            src="/flags/gb.svg"
+                            alt="English"
+                            width={16}
+                            height={16}
+                            className="mr-2"
+                          />
+                          EN
+                        </div>
+                      </SelectItem>
+                      <SelectItem value="pt">
+                        <div className="flex items-center">
+                          <Image
+                            src="/flags/pt.svg"
+                            alt="Portuguese"
+                            width={16}
+                            height={16}
+                            className="mr-2"
+                          />
+                          PT
+                        </div>
+                      </SelectItem>
                     </SelectContent>
                   </Select>
                 </nav>
@@ -123,12 +156,45 @@ export function Header() {
               </Button>
             </ContactUsButtons>
             <Select onValueChange={handleLanguageChange} value={locale}>
-              <SelectTrigger className="w-[70px]">
-                <SelectValue>{locale.toUpperCase()}</SelectValue>
+              <SelectTrigger className="w-[90px]">
+                <SelectValue>
+                  <div className="flex items-center">
+                    <Image
+                      src={`/flags/${locale === "en" ? "gb" : locale}.svg`}
+                      alt={locale}
+                      width={16}
+                      height={16}
+                      className="mr-2"
+                    />
+                    {locale.toUpperCase()}
+                  </div>
+                </SelectValue>
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="en">EN</SelectItem>
-                <SelectItem value="pt">PT</SelectItem>
+                <SelectItem value="en">
+                  <div className="flex items-center">
+                    <Image
+                      src="/flags/gb.svg"
+                      alt="English"
+                      width={16}
+                      height={16}
+                      className="mr-2"
+                    />
+                    EN
+                  </div>
+                </SelectItem>
+                <SelectItem value="pt">
+                  <div className="flex items-center">
+                    <Image
+                      src="/flags/pt.svg"
+                      alt="Portuguese"
+                      width={16}
+                      height={16}
+                      className="mr-2"
+                    />
+                    PT
+                  </div>
+                </SelectItem>
               </SelectContent>
             </Select>
           </div>
