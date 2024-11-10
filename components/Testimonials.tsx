@@ -10,23 +10,9 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import { useEffect, useState } from "react";
-import useEmblaCarousel from "embla-carousel-react";
-import Autoplay from "embla-carousel-autoplay";
 
 export function Testimonials() {
   const t = useTranslations("Testimonials");
-  const [api, setApi] = useState<any>(null);
-
-  const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true }, [
-    Autoplay({ delay: 8000 }),
-  ]);
-
-  useEffect(() => {
-    if (emblaApi) {
-      setApi(emblaApi);
-    }
-  }, [emblaApi]);
 
   const testimonials = [
     {
@@ -62,7 +48,6 @@ export function Testimonials() {
           {t("title")}
         </h2>
         <Carousel
-          ref={emblaRef}
           opts={{
             loop: true,
           }}
