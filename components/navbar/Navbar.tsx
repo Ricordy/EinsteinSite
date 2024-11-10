@@ -15,6 +15,9 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import OfferingsButton from "../utilities/OfferingsButton";
+import AboutUsButton from "../utilities/AboutUsButton";
+import ContactUsButtons from "../utilities/ContactUsButtons";
 
 export function Header() {
   const t = useTranslations("Header");
@@ -45,24 +48,21 @@ export function Header() {
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex absolute left-1/2 -translate-x-1/2 items-center gap-8">
-            <Link
-              href="#oferecemos"
-              className="text-sm font-medium hover:text-primary"
-            >
-              {t("offerings")}
-            </Link>
-            <Link
-              href="#sobre"
-              className="text-sm font-medium hover:text-primary"
-            >
-              {t("about")}
-            </Link>
-            <Link
-              href="#contactos"
-              className="text-sm font-medium hover:text-primary"
-            >
-              {t("contacts")}
-            </Link>
+            <OfferingsButton>
+              <div className="text-sm font-medium hover:text-primary">
+                {t("offerings")}
+              </div>
+            </OfferingsButton>
+            <AboutUsButton>
+              <div className="text-sm font-medium hover:text-primary">
+                {t("about")}
+              </div>
+            </AboutUsButton>
+            <ContactUsButtons>
+              <div className="text-sm font-medium hover:text-primary">
+                {t("contacts")}
+              </div>
+            </ContactUsButtons>
           </nav>
 
           {/* Mobile Navigation */}
@@ -76,27 +76,30 @@ export function Header() {
               </SheetTrigger>
               <SheetContent side="right" className="w-[240px] sm:w-[300px]">
                 <nav className="flex flex-col gap-4 mt-8">
-                  <Link
-                    href="#oferecemos"
-                    className="text-sm font-medium hover:text-primary"
-                    onClick={() => setIsOpen(false)}
-                  >
-                    {t("offerings")}
-                  </Link>
-                  <Link
-                    href="#sobre"
-                    className="text-sm font-medium hover:text-primary"
-                    onClick={() => setIsOpen(false)}
-                  >
-                    {t("about")}
-                  </Link>
-                  <Link
-                    href="#contactos"
-                    className="text-sm font-medium hover:text-primary"
-                    onClick={() => setIsOpen(false)}
-                  >
-                    {t("contacts")}
-                  </Link>
+                  <OfferingsButton>
+                    <div
+                      className="text-sm font-medium hover:text-primary"
+                      onClick={() => setIsOpen(false)}
+                    >
+                      {t("offerings")}
+                    </div>
+                  </OfferingsButton>
+                  <AboutUsButton>
+                    <div
+                      className="text-sm font-medium hover:text-primary"
+                      onClick={() => setIsOpen(false)}
+                    >
+                      {t("about")}
+                    </div>
+                  </AboutUsButton>
+                  <ContactUsButtons>
+                    <div
+                      className="text-sm font-medium hover:text-primary"
+                      onClick={() => setIsOpen(false)}
+                    >
+                      {t("contacts")}
+                    </div>
+                  </ContactUsButtons>
                   <Select onValueChange={handleLanguageChange} value={locale}>
                     <SelectTrigger className="w-fit">
                       <SelectValue>{locale.toUpperCase()}</SelectValue>
@@ -111,9 +114,11 @@ export function Header() {
             </Sheet>
           </div>
           <div className="md:flex gap-8 items-center hidden">
-            <Button className="bg-emerald-600 hover:bg-emerald-700 text-white hidden md:flex">
-              {t("contactUs")}
-            </Button>
+            <ContactUsButtons>
+              <Button className="bg-emerald-600 hover:bg-emerald-700 text-white hidden md:flex">
+                {t("contactUs")}
+              </Button>
+            </ContactUsButtons>
             <Select onValueChange={handleLanguageChange} value={locale}>
               <SelectTrigger className="w-[70px]">
                 <SelectValue>{locale.toUpperCase()}</SelectValue>
