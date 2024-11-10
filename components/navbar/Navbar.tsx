@@ -38,7 +38,7 @@ export function Header() {
         <div className="flex h-16 items-center justify-between px-4">
           <Link href="/" className="flex items-center">
             <Image
-              src="/EinsteinLogoGregb.svg"
+              src="/EinsteinLogoGreen.svg"
               alt={t("logo")}
               width={60}
               height={60}
@@ -108,7 +108,9 @@ export function Header() {
                       <SelectValue>
                         <div className="flex items-center">
                           <Image
-                            src={`/flags/${locale}.svg`}
+                            src={`/flags/${
+                              locale === "en" ? "gb" : locale
+                            }.svg`}
                             alt={locale}
                             width={16}
                             height={16}
