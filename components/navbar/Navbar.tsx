@@ -121,6 +121,18 @@ export function Header() {
                       </SelectValue>
                     </SelectTrigger>
                     <SelectContent>
+                      <SelectItem value="pt">
+                        <div className="flex items-center">
+                          <Image
+                            src="/flags/pt.svg"
+                            alt="Portuguese"
+                            width={16}
+                            height={16}
+                            className="mr-2"
+                          />
+                          PT
+                        </div>
+                      </SelectItem>
                       <SelectItem value="en">
                         <div className="flex items-center">
                           <Image
@@ -133,16 +145,28 @@ export function Header() {
                           EN
                         </div>
                       </SelectItem>
-                      <SelectItem value="pt">
+                      <SelectItem value="es">
                         <div className="flex items-center">
                           <Image
-                            src="/flags/pt.svg"
-                            alt="Portuguese"
+                            src="/flags/es.svg"
+                            alt="Español"
                             width={16}
                             height={16}
                             className="mr-2"
                           />
-                          PT
+                          ES
+                        </div>
+                      </SelectItem>
+                      <SelectItem value="fr">
+                        <div className="flex items-center">
+                          <Image
+                            src="/flags/fr.svg"
+                            alt="Français"
+                            width={16}
+                            height={16}
+                            className="mr-2"
+                          />
+                          FR
                         </div>
                       </SelectItem>
                     </SelectContent>
@@ -173,6 +197,18 @@ export function Header() {
                 </SelectValue>
               </SelectTrigger>
               <SelectContent>
+                <SelectItem value="pt">
+                  <div className="flex items-center">
+                    <Image
+                      src="/flags/pt.svg"
+                      alt="Portuguese"
+                      width={16}
+                      height={16}
+                      className="mr-2"
+                    />
+                    PT
+                  </div>
+                </SelectItem>
                 <SelectItem value="en">
                   <div className="flex items-center">
                     <Image
@@ -185,16 +221,28 @@ export function Header() {
                     EN
                   </div>
                 </SelectItem>
-                <SelectItem value="pt">
+                <SelectItem value="es">
                   <div className="flex items-center">
                     <Image
-                      src="/flags/pt.svg"
-                      alt="Portuguese"
+                      src="/flags/es.svg"
+                      alt="Español"
                       width={16}
                       height={16}
                       className="mr-2"
                     />
-                    PT
+                    ES
+                  </div>
+                </SelectItem>
+                <SelectItem value="fr">
+                  <div className="flex items-center">
+                    <Image
+                      src="/flags/fr.svg"
+                      alt="Français"
+                      width={16}
+                      height={16}
+                      className="mr-2"
+                    />
+                    FR
                   </div>
                 </SelectItem>
               </SelectContent>

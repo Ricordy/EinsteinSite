@@ -1,0 +1,172 @@
+{
+  "Header": {
+    "logo": "Logo",
+    "offerings": "Qué ofrecemos",
+    "about": "Sobre nosotros",
+    "contacts": "Contactos",
+    "contactUs": "Contáctenos",
+    "openMenu": "Abrir menú"
+  },
+  "Hero": {
+    "title": "El éxito es nuestra misión:",
+    "description": "¡Clases individuales, en grupo y en línea para todas las asignaturas hasta el 12º año y más de 50 universitarias!",
+    "contactUs": "Contáctenos",
+    "heroImage": "Estudiante feliz con laptop"
+  },
+  "Stats": {
+    "years": {
+      "value": "+ 10",
+      "description": "años guiando a los estudiantes hacia el éxito"
+    },
+    "subjects": {
+      "value": "+ 80",
+      "description": "asignaturas impartidas desde el 2º ciclo hasta la universidad"
+    },
+    "students": {
+      "value": "+ 1.500",
+      "description": "estudiantes han pasado por el centro"
+    }
+  },
+  "Services": {
+    "title": "¿Qué ofrecemos?",
+    "service1": {
+      "title": "Clases Individuales",
+      "description": "Atención personalizada para un aprendizaje máximo"
+    },
+    "service2": {
+      "title": "Clases en Grupo",
+      "description": "Aprendizaje colaborativo en un ambiente de apoyo"
+    },
+    "service3": {
+      "title": "Clases en Línea",
+      "description": "Aprendizaje flexible desde la comodidad de su hogar"
+    }
+  },
+  "Metadata": {
+    "title": "Centro de Explicaciones - su camino hacia el Éxito",
+    "description": "Ofrecemos clases individuales, en grupo y en línea para todas las asignaturas hasta el 12º año y cursos universitarios. Ubicados en Faro, Portugal, estamos listos para ayudarle a alcanzar sus objetivos."
+  },
+  "Offerings": {
+    "title": "¿Qué ofrecemos?",
+    "individualClasses": {
+      "title": "Clases individuales",
+      "imageAlt": "Estudiante con libros",
+      "features": {
+        "personalizedLessons": "Lecciones personalizadas",
+        "flexibleSchedule": "Horarios flexibles",
+        "immediateFeedback": "Retroalimentación inmediata"
+      }
+    },
+    "groupClasses": {
+      "title": "Clases en grupo",
+      "imageAlt": "Grupo de estudiantes",
+      "features": {
+        "contentVariety": "Variedad de contenido",
+        "softSkills": "Desarrollo de habilidades blandas",
+        "feedback": "Retroalimentación inmediata"
+      }
+    },
+    "onlineClasses": {
+      "title": "Clases en línea",
+      "imageAlt": "Estudiante en clase en línea",
+      "features": {
+        "anywhereAccess": "Estudie desde cualquier lugar con acceso a internet",
+        "continuousCommunication": "Comunicación en línea continua"
+      }
+    }
+  },
+  "WhyUs": {
+    "title": "¿Por qué nosotros?",
+    "experience": "Llevamos más de dos décadas acompañando a los estudiantes en su trayectoria escolar.",
+    "otherPhrase": "Ofrecemos clases individuales, en grupo y en línea para todas las asignaturas hasta el 12º año y cursos universitarios.",
+    "excellence": "Garantizamos una enseñanza de excelencia y nos guiamos por los métodos de enseñanza más eficaces para los estudiantes."
+  },
+  "Team": {
+    "title": "Conozca a nuestro equipo",
+    "memberImageAlt": "Foto de {name}",
+    "roles": {
+      "coordinator": "Coordinadora",
+      "portugueseM": "Profesor de Portugués",
+      "mathM": "Profesor de Matemáticas",
+      "portugueseF": "Profesora de Portugués",
+      "mathF": "Profesora de Matemáticas",
+      "englishF": "Profesora de Inglés",
+      "englishM": "Profesor de Inglés",
+      "macsM": "Profesor de MACS",
+      "macsF": "Profesora de MACS",
+      "cienciasM": "Profesor de Biología y Geología",
+      "cienciasF": "Profesora de Biología y Geología",
+      "geoM": "Profesor de Geografía",
+      "geoF": "Profesora de Geografía",
+      "historyM": "Profesor de Historia",
+      "historyF": "Profesora de Historia",
+      "philosophyM": "Profesor de Filosofía",
+      "philosophyF": "Profesora de Filosofía",
+      "contabilidadeM": "Profesor de Contabilidad",
+      "contabilidadeF": "Profesora de Contabilidad"
+    }
+  },
+  "Common": {
+    "contactUs": "Contáctenos"
+  },
+  "Testimonials": {
+    "title": "Testimonios",
+    "subject": {
+      "testimonial1": "Estudiante de contabilidad",
+      "testimonial2": "Padre de una estudiante de economía",
+      "testimonial3": "Estudiante de matemáticas",
+      "testimonial4": "Estudiante de economía"
+    },
+    "content": {
+      "testimonial1": "La profesora Alexandra fue impecable conmigo y siempre se mostró disponible, recomiendo a quien necesite ayuda en el área de contabilidad, pues siempre que lo necesite, la profesora Alexandra será a quien recurriré.",
+      "testimonial2": "El trabajo desarrollado por la profesora de Economía fue metódico, extremadamente organizado y eficaz. Fue un trabajo responsable. La experiencia fue extraordinaria y se alcanzaron los resultados deseados.",
+      "testimonial3": "Profesor muy bueno, explica bien y tiene flexibilidad de horario",
+      "testimonial4": "Gracias por la excelente organización y preparación para el examen"
+    }
+  },
+  "Contact": {
+    "interested": "¿Está interesado?",
+    "talkToUs": "Hable con nosotros",
+    "address": "Rua Ataide De Oliveira 73b Loja 9, FARO, PT, 8000-218",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Número de teléfono",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje"
+    }
+  },
+  "about": {
+    "purpose": {
+      "title": "Propósito",
+      "description": "Enseñar el Futuro a nuestros estudiantes"
+    },
+    "mission": {
+      "title": "Misión",
+      "description": " <p>Crear vínculos fuertes y duraderos con los estudiantes y padres, proporcionando una enseñanza de excelencia y atención diferenciada a cada uno como si fuera único, con el fin de obtener los resultados escolares deseados.</p> <p>Cultivar la capacidad de enfrentar desafíos escolares/académicos con confianza y determinación</p> "
+    },
+    "values": {
+      "title": "Valores",
+      "subtitle": "Nuestros valores son:",
+      "list": [
+        "Pasión por la enseñanza, solo así ayudamos a nuestros estudiantes a alcanzar sus objetivos",
+        "Excelencia en la forma en que trabajamos",
+        "Respeto por todos los que se relacionan con nosotros, para que todos, clientes y proveedores, tengan el placer de trabajar con nosotros",
+        "Responsabilidad hacia la sociedad y el planeta",
+        "Honestidad e integridad en la forma en que nos relacionamos y estamos en la enseñanza"
+      ]
+    },
+    "vision": {
+      "title": "Visión",
+      "subtitle": "¿Hacia dónde queremos ir?",
+      "tutors": {
+        "title": "Para los Profesores",
+        "description": "Queremos ser un lugar donde disfruten trabajando"
+      },
+      "students": {
+        "title": "Para los estudiantes y sus padres",
+        "description": "Queremos ser el centro de explicaciones de referencia en el Algarve donde los estudiantes alcanzan la excelencia y en el que todos confían."
+      }
+    }
+  }
+}
