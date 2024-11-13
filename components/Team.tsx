@@ -42,18 +42,24 @@ export function Team() {
     },
     {
       id: 5,
+      image: "/catarina.jpg",
+      name: "Catarina Cativo Quintas",
+      role: "mathF",
+    },
+    {
+      id: 6,
       image: "/isabel.jpg",
       name: "Isabel Lança",
       role: "portugueseF",
     },
     {
-      id: 6,
+      id: 7,
       image: "/anamoura.jpg",
       name: "Ana Moura",
       role: "cienciasF",
     },
     {
-      id: 7,
+      id: 8,
       image: "/susanafigueiredeo.jpg",
       name: "Susana Figueiredo",
       role: "macsF",
