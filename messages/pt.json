@@ -113,8 +113,8 @@
     "title": "Testemunhos",
     "subject":{
       "testimonial1": "Aluno de contabilidade",
-      "testimonial2": "Aluna de economia",
-      "testimonial3": "Aluna de literatura",
+      "testimonial2": "Encarregado de educação de uma aluna de economia",
+      "testimonial3": "Aluna de matemática",
       "testimonial4": "Aluna de economia"
     },
     "content": {
@@ -143,7 +143,7 @@
     },
     "mission": {
         "title": "Missão",
-        "description": " <p>Criar vínculos fortes e duradouros com os explicandos e encarregados de educação, proporcionando ensino de excelência e atenção diferenciada a cada um como se fosse único com vista à obtenção dos resultados escolares pretendidos.</p> <p>Cultivar a capacidade de enfrentar desafios escolares/académicos com confiança edeterminação</p> "
+        "description": " <p>Criar vínculos fortes e duradouros com os explicandos e encarregados de educação, proporcionando ensino de excelência e atenção diferenciada a cada um como se fosse único com vista à obtenção dos resultados escolares pretendidos.</p> <p>Cultivar a capacidade de enfrentar desafios escolares/académicos com confiança e determinação</p> "
     },
     "values": {
         "title": "Valores",
