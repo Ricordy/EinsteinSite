@@ -74,7 +74,7 @@ export function Testimonials() {
               </CarouselItem>
             ))}
           </CarouselContent>
-          <div className="md:hidden  relative flex justify-center mt-10">
+          <div className="  relative flex justify-center mt-10">
             <div className="flex">
               <CarouselPrevious className="  top-0 left-0 translate-x-0 " />
               <CarouselNext className="  top-0 right-0  " />

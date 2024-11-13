@@ -7,7 +7,7 @@
     "contactUs": "Nous contacter"
   },
   "Hero": {
-    "title": "La réussite est notre mission :",
+    "title": "La réussite est notre mission:",
     "description": "Cours individuels, collectifs et en ligne pour toutes les matières jusqu'à la terminale et plus de 50 cours universitaires!",
     "contactUs": "Nous contacter",
     "heroImage": "Étudiant heureux avec son ordinateur portable"
@@ -50,7 +50,7 @@
 
     }, 
   "Offerings": {
-        "title": "WQue proposons-nous ?",
+        "title": "WQue proposons-nous?",
         "individualClasses": {
           "title": "Cours individuels",
           "imageAlt": "Étudiant avec des livres",
