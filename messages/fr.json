@@ -1,0 +1,175 @@
+{
+  "Header": {
+    "logo": "Logo",
+    "offerings": "Ce que nous proposons",
+    "about": "À propos de nous",
+    "contacts": "Contacts",
+    "contactUs": "Nous contacter"
+  },
+  "Hero": {
+    "title": "La réussite est notre mission :",
+    "description": "Cours individuels, collectifs et en ligne pour toutes les matières jusqu'à la terminale et plus de 50 cours universitaires!",
+    "contactUs": "Nous contacter",
+    "heroImage": "Étudiant heureux avec son ordinateur portable"
+  },
+  "Stats": {
+    "years": {
+      "value": "+ 10",
+      "description": "années à guider les étudiants vers la réussite"
+    },
+    "subjects": {
+      "value": "+ 80",
+      "description": "atières enseignées du collège à l'université"
+    },
+    "students": {
+      "value": "+ 1,500",
+      "description": "les étudiants sont passés par notre centre"
+    }
+  },
+  "Services": {
+    "title": "Que proposons-nous?",
+    "service1": {
+      "title": "Cours individuels",
+      "description": "Une attention personnalisée pour un apprentissage optimal"
+    },
+    "service2": {
+      "title": "Cours collectifs",
+      "description": "Apprentissage collaboratif dans un environnement favorable"
+    },
+    "service3": {
+      "title": "Cours en ligne",
+      "description": "Apprentissage flexible depuis le confort de votre domicile"
+    }
+  },
+  "Metadata": {
+    "title": "Centre d'Explications - Votre chemin vers le succès",
+    "description": "Nous proposons des cours individuels, en groupe et en ligne pour toutes les matières jusqu'à la terminale et des cours universitaires. Situés à Faro, au Portugal, nous sommes prêts à vous aider à atteindre vos objectifs.",
+    "contactUs": "Nous contacter"
+  },
+  "contactUs": {
+
+    }, 
+  "Offerings": {
+        "title": "WQue proposons-nous ?",
+        "individualClasses": {
+          "title": "Cours individuels",
+          "imageAlt": "Étudiant avec des livres",
+          "features": {
+            "personalizedLessons": "Leçons personnalisées",
+            "flexibleSchedule": "Horaire flexible",
+            "immediateFeedback": "Retour d'information immédiat"
+          }
+        },
+        "groupClasses": {
+          "title": "Cours collectifs",
+          "imageAlt": "Groupe d'étudiants",
+          "features": {
+            "contentVariety": "Variété du contenu",
+            "softSkills": "Développement des compétences non techniques",
+            "feedback": "Retour d'information immédiat"
+          }
+        },
+        "onlineClasses": {
+          "title": "Cours en ligne",
+          "imageAlt": "Étudiant dans une classe en ligne",
+          "features": {
+            "anywhereAccess": "Étudier depuis n'importe quel endroit disposant d'un accès à l'internet",
+            "continuousCommunication": "Communication continue en ligne"
+          }
+        }
+      },
+  "WhyUs": {
+      "title": "Pourquoi nous?",
+    "experience": "Nous avons plus de 10 ans d'expérience dans l'accompagnement des étudiants vers la réussite.",
+    "otherPhrase": "Nous proposons des cours individuels, collectifs et en ligne pour toutes les matières jusqu'à la terminale et des cours universitaires.",
+    "excellence": "Nous avons enseigné plus de 80 matières, du collège à l'université."
+    },
+  "Team": {
+    "title": "Rencontrer notre équipe",
+    "memberImageAlt": "Membre de l'équipe {name}",
+    "roles": {
+      "coordinator": "Coordinateur",
+      "portugueseM": "Professeur de portugais",
+      "mathM": "Professeur de Math",
+      "portugueseF": "Professeur de portugais",
+      "mathF": "Professeur de Math",
+      "englishF": "Professeur d'anglais",
+      "englishM": "Professeur d'anglais",    
+      "macsM": "Professeur de MACS",
+      "macsF": "Professeur de MACS",
+      "cienciasM":  "Professeur de biologie et de géologie",
+      "cienciasF":  "Professeur de biologie et de géologie",
+      "geoM": "Professeur de géographie",
+      "geoF": "Professeur de géographie",
+      "historyF": "Professeur d'histoire",
+      "historyM": "Professeur d'histoire",
+      "philosophyM": "Professeur en philosophie",
+      "philosophyF": "Professeur en philosophie",
+      "contabilidadeM": "Professeur en comptabilité",
+      "contabilidadeF": "Professeur en comptabilité"
+    }
+  },
+  "Common": {
+    "contactUs": "Nous contacter"
+  },
+  "Testimonials": {
+    "title": "Témoignages",
+    "subject":{
+      "testimonial1": "Étudiant en comptabilité",
+      "testimonial2": "Tuteur d'un étudiant en économie",
+      "testimonial3": "Étudiant en mathématiques",
+      "testimonial4": "Étudiant en économie"
+    },
+    "content": {
+      "testimonial1": "La professeure Alexandra a été impeccable avec moi et s'est toujours montrée disponible, je la recommande à tous ceux qui ont besoin d'aide en comptabilité, car à chaque fois que j'en aurai besoin, c'est vers elle que je me tournerai.",
+      "testimonial2": "Le travail développé par le professeur d'économie était méthodique, extrêmement organisé et efficace. Il s'agissait d'un travail responsable. L'expérience a été extraordinaire et les résultats escomptés ont été atteints.",
+      "testimonial3": "Professeur très explicatif avec flexibilité d'horaire.",
+      "testimonial4": "Merci pour l'excellente organisation et la préparation à l'examen."
+    }
+  },
+  "Contact": {
+    "interested": "Intéressé(e)?",
+    "talkToUs": "Parlez-nous",
+    "address": "Rue Ataide De Oliveira 73b Magasin 9, FARO, PT, 8000-218",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "phone": "Numéro de téléphone",
+      "message": "Message",
+      "submit": "Envoyer un message"
+    }
+  },
+   "about": {
+    "purpose": {
+        "title": "Objectif",
+        "description": "Enseigner l'avenir à nos élèves"
+    },
+    "mission": {
+        "title": "La mission",
+        "description": " <p>Créer des liens solides et durables avec les élèves et les tuteurs, en offrant un enseignement d'excellence et une attention différenciée à chacun, comme s'il était unique, en vue d'obtenir les résultats scolaires souhaités.</p> <p>Cultiver la capacité à relever les défis scolaires et académiques avec confiance et détermination.</p>"
+    },
+    "values": {
+        "title": "Valeurs",
+        "subtitle": "Nos valeurs sont les suivantes :",
+        "list": [
+          "Passion pour l'enseignement, c'est la seule façon d'aider nos étudiants à atteindre leurs objectifs.",
+          "L'excellence dans notre façon de travailler.",
+          "Le respect de tous ceux qui sont en relation avec nous, afin que tous, clients et fournisseurs, apprécient de travailler avec nou.",
+          "Responsabilité à l'égard de la société et de la planète",
+          "L'honnêteté et l'intégrité dans nos relations et notre enseignement"
+        ]
+    },
+    "vision": {
+        "title": "Vision",
+        "subtitle": "Où voulons-nous aller ?",
+        "tutors": {
+          "title": "Pour le professeur",
+          "description": "Nous voulons être un lieu où ils aiment travailler"
+        },
+        "students": {
+          "title": "Pour les étudiants et leurs tuteurs",
+          "description": "Nous voulons être le centre de tutorat de référence en Algarve où les étudiants atteignent l'excellence et où tout le monde a confiance."
+        }
+    }
+  } 
+}
