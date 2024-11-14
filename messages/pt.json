@@ -43,7 +43,7 @@
     }
   },
   "Metadata": {
-    "title": "Centro de Explicações - o seu caminho para o Sucesso",
+    "title": "Einstein Explicações - o seu caminho para o Sucesso",
     "description": "Oferecemos aulas individuais, em grupo e online para todas as disciplinas até o 12.º ano e cursos universitários. Localizados em Faro, Portugal, estamos prontos para o fazer atingir os seus objetivos."
   },
   "Offerings": {
@@ -103,7 +103,9 @@
       "philosophyM": "Explicador de Filosofia",
       "philosophyF": "Explicadora de Filosofia",
       "contabilidadeM": "Explicador de Contabilidade",
-      "contabilidadeF": "Explicadora de Contabilidade"
+      "contabilidadeF": "Explicadora de Contabilidade",
+      "fqM": "Explicador de Físico-Química",
+      "fqF": "Explicadora de Físico-Química"
     }
   },
   "Common": {

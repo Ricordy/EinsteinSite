@@ -42,7 +42,7 @@
     }
   },
   "Metadata": {
-    "title": "Education Center - Your Path to Success",
+    "title": "Einstein Education Center - Your Path to Success",
     "description": "We offer individual, group, and online classes for all subjects up to 12th grade and university courses. Located in Faro, Portugal, we are ready to help you achieve your goals.",
     "contactUs": "Contact Us"
   },
@@ -106,7 +106,9 @@
       "philosophyM": "Philosophy Tutor",
       "philosophyF": "Philosophy Tutor",
       "contabilidadeM": "Accounting Tutor",
-      "contabilidadeF": "Accounting Tutor"
+      "contabilidadeF": "Accounting Tutor",
+      "fqM": "Physics and Chemistry Tutor",
+      "fqF": "Physics and Chemistry Tutor"
     }
   },
   "Common": {

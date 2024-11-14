@@ -10,7 +10,6 @@ import {
 } from "@/components/ui/carousel";
 import { Card, CardContent } from "@/components/ui/card";
 import Autoplay from "embla-carousel-autoplay";
-import { Car } from "lucide-react";
 
 export function Team() {
   const t = useTranslations("Team");
@@ -63,6 +62,12 @@ export function Team() {
       image: "/susanafigueiredeo.jpg",
       name: "Susana Figueiredo",
       role: "macsF",
+    },
+    {
+      id: 9,
+      image: "/orlando.png",
+      name: "Orlando Alho",
+      role: "fqM",
     },
   ];
 

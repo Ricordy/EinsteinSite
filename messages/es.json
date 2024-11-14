@@ -43,7 +43,7 @@
     }
   },
   "Metadata": {
-    "title": "Centro de Explicaciones - su camino hacia el Éxito",
+    "title": "Einstein Explicaciones - su camino hacia el Éxito",
     "description": "Ofrecemos clases individuales, en grupo y en línea para todas las asignaturas hasta el 12º año y cursos universitarios. Ubicados en Faro, Portugal, estamos listos para ayudarle a alcanzar sus objetivos."
   },
   "Offerings": {
@@ -103,7 +103,9 @@
       "philosophyM": "Profesor de Filosofía",
       "philosophyF": "Profesora de Filosofía",
       "contabilidadeM": "Profesor de Contabilidad",
-      "contabilidadeF": "Profesora de Contabilidad"
+      "contabilidadeF": "Profesora de Contabilidad",
+      "fqM": "Profesor de Física y Química",
+      "fqF": "Profesora de Física y Química"
     }
   },
   "Common": {
