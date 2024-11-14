@@ -36,7 +36,7 @@ export async function generateMetadata({
       images: [t("twitterImage")],
     },
     alternates: {
-      canonical: `https://www.einstein-education.com/${locale}`,
+      canonical: `https://www.einsteinexplicacoes.pt/${locale}`,
       languages: {
         en: "/en",
         pt: "/pt",
