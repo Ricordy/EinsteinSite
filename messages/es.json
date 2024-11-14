@@ -44,7 +44,27 @@
   },
   "Metadata": {
     "title": "Einstein Explicaciones - su camino hacia el Éxito",
-    "description": "Ofrecemos explicaciones individuales, en grupo y en línea para todas las asignaturas hasta el 12º año y cursos universitarios. Ubicados en Faro, Portugal, estamos listos para ayudarle a alcanzar sus objetivos."
+    "description": "Ofrecemos explicaciones individuales, en grupo y en línea para todas las asignaturas hasta el 12º año y cursos universitarios. Ubicados en Faro, Portugal, estamos listos para ayudarle a alcanzar sus objetivos.",
+    "ogTitle": "Centro Educativo Einstein - Servicios de Tutoría Experta",
+    "ogDescription": "Explicaciones personalizadas para todas las materias, desde la secundaria hasta la universidad. ¡Únete a nosotros para el éxito académico!",
+    "ogImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg",
+    "ogImageAlt": "Centro Einstein Explicaciones - Estudiantes estudiando juntos",
+    "twitterTitle": "Alcanza la Excelencia Académica con el Centro Educativo Einstein",
+    "twitterDescription": "Tutoría experta en Faro, Portugal. Explicaciones individuales, grupales y en línea disponibles.",
+    "twitterImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg"
+    
+  },
+  "StructuredData": {
+    "name": "Centro Einstein Explicaciones",
+    "description": "Ofrecemos clases individuales, grupales y en línea para todas las materias hasta el nivel de 12º grado y cursos universitarios.",
+    "address": {
+      "streetAddress": "Calle Ataíde de Oliveira 73b Tienda 9",
+      "addressLocality": "FARO",
+      "postalCode": "8000-218",
+      "addressCountry": "PT"
+    },
+    "telephone": "+351910672248",
+    "url": "https://einsteinexplicacoes.pt"
   },
   "Offerings": {
     "title": "¿Qué ofrecemos?",

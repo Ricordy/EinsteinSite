@@ -44,7 +44,26 @@
   "Metadata": {
     "title": "Einstein Education Center - Your Path to Success",
     "description": "We offer individual, group, and online classes for all subjects up to 12th grade and university courses. Located in Faro, Portugal, we are ready to help you achieve your goals.",
-    "contactUs": "Contact Us"
+    "contactUs": "Contact Us",
+    "ogTitle": "Einstein Education Center - Expert Tutoring Services",
+    "ogDescription": "Personalized tutoring for all subjects, from middle school to university. Join us for academic success!",
+    "ogImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg",
+    "ogImageAlt": "Einstein Education Center - Students studying together",
+    "twitterTitle": "Achieve Academic Excellence with Einstein Education Center",
+    "twitterDescription": "Expert tutoring in Faro, Portugal. Individual, group, and online classes available.",
+    "twitterImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg"
+  },  
+  "StructuredData": {
+    "name": "Einstein Education Center",
+    "description": "We offer individual, group, and online classes for all subjects up to 12th grade and university courses.",
+    "address": {
+      "streetAddress": "Street Ataide De Oliveira 73b Store 9",
+      "addressLocality": "FARO",
+      "postalCode": "8000-218",
+      "addressCountry": "PT"
+    },
+    "telephone": "+351910672248",
+    "url": "https://einsteinexplicacoes.pt"
   },
   "contactUs": {
 
