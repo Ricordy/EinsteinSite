@@ -83,5 +83,10 @@ export default async function Home({
 }
 
 export function generateStaticParams() {
-  return [{ locale: "en" }, { locale: "pt" }];
+  return [
+    { locale: "en" },
+    { locale: "pt" },
+    { locale: "fr" },
+    { locale: "es" },
+  ];
 }
