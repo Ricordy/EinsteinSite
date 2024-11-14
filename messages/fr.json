@@ -106,7 +106,9 @@
       "philosophyM": "Professeur en philosophie",
       "philosophyF": "Professeur en philosophie",
       "contabilidadeM": "Professeur en comptabilité",
-      "contabilidadeF": "Professeur en comptabilité"
+      "contabilidadeF": "Professeur en comptabilité",
+      "fqM": "Professeur de physique-chimie",
+      "fqF": "Professeur de physique-chimie"
     }
   },
   "Common": {

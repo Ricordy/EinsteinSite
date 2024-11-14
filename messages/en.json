@@ -106,7 +106,9 @@
       "philosophyM": "Philosophy Tutor",
       "philosophyF": "Philosophy Tutor",
       "contabilidadeM": "Accounting Tutor",
-      "contabilidadeF": "Accounting Tutor"
+      "contabilidadeF": "Accounting Tutor",
+      "fqM": "Physics and Chemistry Tutor",
+      "fqF": "Physics and Chemistry Tutor"
     }
   },
   "Common": {

@@ -103,7 +103,9 @@
       "philosophyM": "Profesor de Filosofía",
       "philosophyF": "Profesora de Filosofía",
       "contabilidadeM": "Profesor de Contabilidad",
-      "contabilidadeF": "Profesora de Contabilidad"
+      "contabilidadeF": "Profesora de Contabilidad",
+      "fqM": "Profesor de Física y Química",
+      "fqF": "Profesora de Física y Química"
     }
   },
   "Common": {

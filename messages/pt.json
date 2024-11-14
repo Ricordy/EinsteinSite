@@ -103,7 +103,9 @@
       "philosophyM": "Explicador de Filosofia",
       "philosophyF": "Explicadora de Filosofia",
       "contabilidadeM": "Explicador de Contabilidade",
-      "contabilidadeF": "Explicadora de Contabilidade"
+      "contabilidadeF": "Explicadora de Contabilidade",
+      "fqM": "Explicador de Físico-Química",
+      "fqF": "Explicadora de Físico-Química"
     }
   },
   "Common": {
