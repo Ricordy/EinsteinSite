@@ -22,6 +22,28 @@ export async function generateMetadata({
   return {
     title: t("title"),
     description: t("description"),
+    openGraph: {
+      title: t("ogTitle"),
+      description: t("ogDescription"),
+      images: [
+        { url: t("ogImage"), width: 1200, height: 630, alt: t("ogImageAlt") },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("twitterTitle"),
+      description: t("twitterDescription"),
+      images: [t("twitterImage")],
+    },
+    alternates: {
+      canonical: `https://www.einstein-education.com/${locale}`,
+      languages: {
+        en: "/en",
+        pt: "/pt",
+        fr: "/fr",
+        es: "/es",
+      },
+    },
   };
 }
 

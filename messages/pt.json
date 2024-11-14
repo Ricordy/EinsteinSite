@@ -44,8 +44,28 @@
   },
   "Metadata": {
     "title": "Einstein Explicações - o seu caminho para o Sucesso",
-    "description": "Oferecemos explicações individuais, em grupo e online para todas as disciplinas até o 12.º ano e cursos universitários. Localizados em Faro, Portugal, estamos prontos para o fazer atingir os seus objetivos."
+    "description": "Oferecemos explicações individuais, em grupo e online para todas as disciplinas até o 12.º ano e cursos universitários. Localizados em Faro, Portugal, estamos prontos para o fazer atingir os seus objetivos.",
+    "ogTitle": "Einstein Explicações - Serviços de Explicações Especializadas",
+    "ogDescription": "Explicações personalizadas para todas as disciplinas, desde o ensino básico até à universidade. Junte-se a nós para o sucesso académico!",
+    "ogImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg",
+    "ogImageAlt": "Einstein Explicações - Alunos a estudar juntos",
+    "twitterTitle": "Alcance a Excelência Académica com o Centro Einstein Explicações",
+    "twitterDescription": "Explicações especializadas em Faro, Portugal. Aulas individuais, em grupo e online disponíveis.",
+    "twitterImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg"
   },
+    "StructuredData": {
+    "name": "Einstein Explicações",
+    "description": "Oferecemos aulas individuais, em grupo e online para todas as disciplinas até o 12º ano e cursos universitários.",
+    "address": {
+      "streetAddress": "Rua Ataide De Oliveira 73b Loja 9",
+      "addressLocality": "FARO",
+      "postalCode": "8000-218",
+      "addressCountry": "PT"
+    },
+    "telephone": "+351910672248",
+    "url": "https://einsteinexplicacoes.pt"
+  },
+  
   "Offerings": {
     "title": "O que oferecemos?",
     "individualClasses": {
