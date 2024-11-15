@@ -30,15 +30,15 @@
   "Services": {
     "title": "¿Qué ofrecemos?",
     "service1": {
-      "title": "Clases Individuales",
+      "title": "Explicaciones Individuales",
       "description": "Atención personalizada para un aprendizaje máximo"
     },
     "service2": {
-      "title": "Clases en Grupo",
+      "title": "Explicaciones en Grupo",
       "description": "Aprendizaje colaborativo en un ambiente de apoyo"
     },
     "service3": {
-      "title": "Clases en Línea",
+      "title": "Explicaciones en Línea",
       "description": "Aprendizaje flexible desde la comodidad de su hogar"
     }
   },
@@ -125,7 +125,9 @@
       "contabilidadeM": "Profesor de Contabilidad",
       "contabilidadeF": "Profesora de Contabilidad",
       "fqM": "Profesor de Física y Química",
-      "fqF": "Profesora de Física y Química"
+      "fqF": "Profesora de Física y Química",
+      "economicsM": "Profesor de Economía",
+      "economicsF": "Profesora de Economía"
     }
   },
   "Common": {

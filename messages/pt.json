@@ -30,15 +30,15 @@
   "Services": {
     "title": "O que oferecemos?",
     "service1": {
-      "title": "Aulas Individuais",
+      "title": "Explicações Individuais",
       "description": "Atenção personalizada para máximo aprendizado"
     },
     "service2": {
-      "title": "Aulas em Grupo",
+      "title": "Explicações em Grupo",
       "description": "Aprendizagem colaborativa em um ambiente de apoio"
     },
     "service3": {
-      "title": "Aulas Online",
+      "title": "Explicações Online",
       "description": "Aprendizagem flexível no conforto da sua casa"
     }
   },
@@ -125,7 +125,9 @@
       "contabilidadeM": "Explicador de Contabilidade",
       "contabilidadeF": "Explicadora de Contabilidade",
       "fqM": "Explicador de Físico-Química",
-      "fqF": "Explicadora de Físico-Química"
+      "fqF": "Explicadora de Físico-Química",
+      "economicsM": "Explicador de Economia",
+      "economicsF": "Explicadora de Economia"
     }
   },
   "Common": {

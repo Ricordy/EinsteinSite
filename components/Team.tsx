@@ -19,7 +19,7 @@ export function Team() {
       id: 1,
       image: "/alex.png",
       name: "Alexandra Cativo Quintas",
-      role: "coordinator",
+      role: "econimicsF",
     },
     {
       id: 2,
