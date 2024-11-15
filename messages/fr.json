@@ -29,15 +29,15 @@
   "Services": {
     "title": "Que proposons-nous?",
     "service1": {
-      "title": "Cours individuels",
+      "title": "Explications individuels",
       "description": "Une attention personnalisée pour un apprentissage optimal"
     },
     "service2": {
-      "title": "Cours collectifs",
+      "title": "Explications collectifs",
       "description": "Apprentissage collaboratif dans un environnement favorable"
     },
     "service3": {
-      "title": "Cours en ligne",
+      "title": "Explications en ligne",
       "description": "Apprentissage flexible depuis le confort de votre domicile"
     }
   },
@@ -127,7 +127,9 @@
       "contabilidadeM": "Professeur en comptabilité",
       "contabilidadeF": "Professeur en comptabilité",
       "fqM": "Professeur de physique-chimie",
-      "fqF": "Professeur de physique-chimie"
+      "fqF": "Professeur de physique-chimie",
+      "economicsM": "Professeur d'économie",
+      "economicsF": "Professeur d'économie"
     }
   },
   "Common": {

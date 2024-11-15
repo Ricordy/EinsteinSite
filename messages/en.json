@@ -127,7 +127,9 @@
       "contabilidadeM": "Accounting Tutor",
       "contabilidadeF": "Accounting Tutor",
       "fqM": "Physics and Chemistry Tutor",
-      "fqF": "Physics and Chemistry Tutor"
+      "fqF": "Physics and Chemistry Tutor",
+      "economicsM": "Economics Tutor",
+      "economicsF": "Economics Tutor"
     }
   },
   "Common": {
