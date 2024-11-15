@@ -69,7 +69,7 @@
   "Offerings": {
     "title": "O que oferecemos?",
     "individualClasses": {
-      "title": "Aulas individuais",
+      "title": "Explicações individuais",
       "imageAlt": "Estudante com livros",
       "features": {
         "personalizedLessons": "Lições personalizadas",
@@ -78,7 +78,7 @@
       }
     },
     "groupClasses": {
-      "title": "Aulas de grupo",
+      "title": "Explicações de grupo",
       "imageAlt": "Grupo de estudantes",
       "features": {
         "contentVariety": "Variedade de conteúdo",
@@ -87,7 +87,7 @@
       }
     },
     "onlineClasses": {
-      "title": "Aulas online",
+      "title": "Explicações online",
       "imageAlt": "Estudante em aula online",
       "features": {
         "anywhereAccess": "Estude de qualquer lugar com acesso à internet",
@@ -98,7 +98,7 @@
   "WhyUs": {
     "title": "Porquê nós?",
     "experience": "Há mais de duas décadas que acompanhamos alunos no seu percurso escolar.",
-    "otherPhrase": "Oferecemos aulas individuais, em grupo e online para todas as disciplinas até o 12º ano e cursos universitários.",
+    "otherPhrase": "Oferecemos explicações individuais, em grupo e online para todas as disciplinas até o 12º ano e cursos universitários.",
     "excellence": "Garantimos ensino de excelência e guiamo-nos pelos métodos de ensino mais eficazes para os alunos."
   },
   "Team": {
