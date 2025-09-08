@@ -71,7 +71,7 @@ export function Team() {
     },
     {
       id: 10,
-      image: "/leuismoura.jpg",
+      image: "/luismoura.jpg",
       name: "Luís Moura",
       role: "mathM",
     },
