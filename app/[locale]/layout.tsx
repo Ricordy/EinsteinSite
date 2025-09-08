@@ -3,7 +3,13 @@ import { getMessages } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import StructuredData from "@/components/StruturedData";
+import { Metadata } from "next";
 
+
+export const metadata: Metadata = {
+  title: "Einstein Explicações",
+  description: "Centro de Explicações Einstein",
+};
 export default async function LocaleLayout({
   children,
   params: { locale },

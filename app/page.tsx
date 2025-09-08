@@ -81,7 +81,7 @@ export async function generateMetadata(
 }
 
 export default async function Home({ params: { locale } }: Props) {
-  const messages = (await import(`../../messages/${locale}.json`)).default;
+  const messages = (await import(`../messages/${locale}.json`)).default;
   const t = await getTranslations({ locale, namespace: "Metadata" });
   const tc = await getTranslations({ locale, namespace: "Common" });
 
