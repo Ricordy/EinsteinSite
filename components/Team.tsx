@@ -69,6 +69,18 @@ export function Team() {
       name: "Orlando Alho",
       role: "fqM",
     },
+    {
+      id: 10,
+      image: "/leuismoura.jpg",
+      name: "Luís Moura",
+      role: "mathM",
+    },
+    {
+      id: 11,
+      image: "/leonorribeiro.jpg",
+      name: "Leonor Ribeiro",
+      role: "historyF",
+    },
   ];
 
   return (
