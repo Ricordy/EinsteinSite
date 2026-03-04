@@ -53,9 +53,8 @@
     "twitterDescription": "Expert tutoring in Faro, Portugal. Individual, group, and online classes available.",
     "twitterImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg",
     "siteName": "Einstein Education Center",
-    "keywords": " explanations , individual explanations, group explanations, online explanations, teaching, academic success, Faro, Portugal, university, 12th grade, 2nd cycle, 3rd cycle, basic education, secondary education, tutor, tutor, tutors, explanation, explanationes, individual explanations, group explanations, online explanations, maths explanations, Portuguese explanations, English explanations, explanations of biology, explanations of geography, explanations of history, explanations of philosophy, explanations of accounting, explanations of physical chemistry, explanations of economics, explanations of MACS, explanations of science, explanations of economics, explanations of geography, explanations of history, explanations of philosophy, explanations of accounting, explanations of physics and chemistry"
-  
-  },  
+    "keywords": "tutoring, individual tutoring, group tutoring, online tutoring, tutoring Faro, tutoring Portugal, teaching, academic success, university, 12th grade, secondary education, maths tutoring, Portuguese tutoring, English tutoring, biology tutoring, geography tutoring, history tutoring, philosophy tutoring, accounting tutoring, physics tutoring, chemistry tutoring, economics tutoring, science tutoring"
+  },
   "StructuredData": {
     "name": "Einstein Education Center",
     "description": "We offer individual, group, and online classes for all subjects up to 12th grade and university courses.",
@@ -65,8 +64,24 @@
       "postalCode": "8000-218",
       "addressCountry": "PT"
     },
+    "geo": {
+      "latitude": "37.019659805849905",
+      "longitude": "-7.926154505037054"
+    },
     "telephone": "+351910672248",
-    "url": "https://einsteinexplicacoes.pt"
+    "url": "https://www.einsteinexplicacoes.pt"
+  },
+  "Faq": {
+    "q1": "What tutoring services do you offer?",
+    "a1": "We offer individual tutoring, group tutoring, and online tutoring for all subjects from 2nd cycle to university.",
+    "q2": "Where is the tutoring center located?",
+    "a2": "We are located in Faro, Portugal, at Rua Ataide De Oliveira 73b Store 9, postal code 8000-218.",
+    "q3": "What grade levels do you cover?",
+    "a3": "We cover from 2nd cycle (5th and 6th grade) to 12th grade, including university tutoring for over 50 courses.",
+    "q4": "How can I contact you to book tutoring?",
+    "a4": "You can contact us by phone +351910672248, through the form on our website, or through our social media.",
+    "q5": "How much experience do you have?",
+    "a5": "We have over 10 years of experience guiding students to academic success, with over 1,500 students served."
   },
   "contactUs": {
 

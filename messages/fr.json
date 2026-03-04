@@ -53,7 +53,7 @@
     "twitterDescription": "Tutorat expert à Faro, Portugal. Cours individuels, en groupe et en ligne disponibles.",
     "twitterImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg",
     "siteName": "Einstein Explications",
-    "keywords": " Explications, explications individuelles, explications de groupe, explications en ligne, enseignement, réussite scolaire, Faro, Portugal, université, 12e année, 2e cycle, 3e cycle, éducation de base, éducation secondaire, tuteur, tuteurs, explication, explications, explications individuelles, explications de groupe, explications en ligne, explications de mathématiques, explications portugaises, explications anglaises, explications de biologie, explications de géographie, explications d'histoire, explications de philosophie, explications de comptabilité, explications de chimie physique, explications d'économie, explications de MACS, explications de sciences, explications d'économie, explications de géographie, explications d'histoire, explications de philosophie, explications de comptabilité, explications de physique et de chimie"
+    "keywords": "tutorat, tutorat individuel, tutorat de groupe, tutorat en ligne, tutorat Faro, tutorat Portugal, enseignement, réussite scolaire, université, lycée, cours de mathématiques, cours de portugais, cours d'anglais, cours de biologie, cours de géographie, cours d'histoire, cours de philosophie, cours de comptabilité, cours de physique, cours de chimie, cours d'économie, cours de sciences"
   },
   "StructuredData": {
     "name": "Einstein Explications",
@@ -64,8 +64,24 @@
       "postalCode": "8000-218",
       "addressCountry": "PT"
     },
+    "geo": {
+      "latitude": "37.019659805849905",
+      "longitude": "-7.926154505037054"
+    },
     "telephone": "+351910672248",
-    "url": "https://einsteinexplicacoes.pt"
+    "url": "https://www.einsteinexplicacoes.pt"
+  },
+  "Faq": {
+    "q1": "Quels services de tutorat proposez-vous?",
+    "a1": "Nous proposons du tutorat individuel, du tutorat en groupe et du tutorat en ligne pour toutes les matières du 2e cycle à l'université.",
+    "q2": "Où est situé le centre de tutorat?",
+    "a2": "Nous sommes situés à Faro, Portugal, au Rue Ataíde de Oliveira 73b Magasin 9, code postal 8000-218.",
+    "q3": "Quels niveaux scolaires couvrez-vous?",
+    "a3": "Nous couvrons du 2e cycle (5e et 6e année) jusqu'au baccalauréat, incluant également le tutorat universitaire pour plus de 50 cours.",
+    "q4": "Comment puis-je vous contacter pour réserver un tutorat?",
+    "a4": "Vous pouvez nous contacter par téléphone au +351910672248, via le formulaire sur notre site web ou via nos réseaux sociaux.",
+    "q5": "Quelle expérience avez-vous?",
+    "a5": "Nous avons plus de 10 ans d'expérience à guider les étudiants vers la réussite scolaire, avec plus de 1 500 étudiants accompagnés."
   },
   "contactUs": {
 

@@ -18,6 +18,11 @@ export default function StructuredData() {
       postalCode: t("address.postalCode"),
       addressCountry: t("address.addressCountry"),
     },
+    geo: {
+      "@type": "GeoCoordinates",
+      latitude: t("geo.latitude"),
+      longitude: t("geo.longitude"),
+    },
     telephone: t("telephone"),
     url: t("url"),
   };

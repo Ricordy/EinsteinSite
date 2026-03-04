@@ -53,8 +53,7 @@
     "twitterDescription": "Tutoría experta en Faro, Portugal. Explicaciones individuales, grupales y en línea disponibles.",
     "twitterImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg",
     "siteName": "Einstein Explicaciones",
-    "keywords": "explicaciones , explicaciones individuales, explicaciones en grupo, explicaciones online, enseñanza, éxito académico, Faro, Portugal, universidad, 12º curso, 2º ciclo, 3º ciclo, educación básica, educación secundaria, tutor, tutores, explicación, explicaciones, explicaciones individuales, explicaciones en grupo, explicaciones online, explicaciones de matemáticas, explicaciones de portugués, explicaciones de inglés, explicaciones de biología, explicaciones de geografía, explicaciones de historia, explicaciones de filosofía, explicaciones de contabilidad, explicaciones de fisicoquímica, explicaciones de economía, explicaciones de MACS, explicaciones de ciencias, explicaciones de economía, explicaciones de geografía, explicaciones de historia, explicaciones de filosofía, explicaciones de contabilidad, explicaciones de física y química"
-    
+    "keywords": "tutoría, tutorías individuales, tutorías en grupo, tutorías online, tutorías Faro, tutorías Portugal, enseñanza, éxito académico, universidad, secundaria, clases de matemáticas, clases de portugués, clases de inglés, clases de biología, clases de geografía, clases de historia, clases de filosofía, clases de contabilidad, clases de física, clases de química, clases de economía, clases de ciencias"
   },
   "StructuredData": {
     "name": "Centro Einstein Explicaciones",
@@ -65,8 +64,24 @@
       "postalCode": "8000-218",
       "addressCountry": "PT"
     },
+    "geo": {
+      "latitude": "37.019659805849905",
+      "longitude": "-7.926154505037054"
+    },
     "telephone": "+351910672248",
-    "url": "https://einsteinexplicacoes.pt"
+    "url": "https://www.einsteinexplicacoes.pt"
+  },
+  "Faq": {
+    "q1": "¿Qué servicios de tutoría ofrecen?",
+    "a1": "Ofrecemos tutorías individuales, tutorías en grupo y tutorías online para todas las materias desde el 2º ciclo hasta la universidad.",
+    "q2": "¿Dónde está ubicado el centro de tutorías?",
+    "a2": "Estamos ubicados en Faro, Portugal, en la Calle Ataíde de Oliveira 73b Tienda 9, código postal 8000-218.",
+    "q3": "¿Qué niveles educativos cubren?",
+    "a3": "Cubrimos desde el 2º ciclo (5º y 6º curso) hasta 12º curso, incluyendo también tutorías universitarias para más de 50 cursos.",
+    "q4": "¿Cómo puedo contactarles para reservar tutorías?",
+    "a4": "Puede contactarnos a través del teléfono +351910672248, mediante el formulario en nuestro sitio web o a través de nuestras redes sociales.",
+    "q5": "¿Cuántos años de experiencia tienen?",
+    "a5": "Tenemos más de 10 años de experiencia guiando a los estudiantes hacia el éxito académico, con más de 1.500 estudiantes atendidos."
   },
   "Offerings": {
     "title": "¿Qué ofrecemos?",
