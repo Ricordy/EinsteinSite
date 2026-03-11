@@ -159,13 +159,17 @@
       "testimonial1": "Étudiant en comptabilité",
       "testimonial2": "Tuteur d'un étudiant en économie",
       "testimonial3": "Étudiant en mathématiques",
-      "testimonial4": "Étudiant en économie"
+      "testimonial4": "Étudiant en économie",
+      "testimonial5": "Mère d'une élève de terminale",
+      "testimonial6": "Mère d'un élève de 6ème"
     },
     "content": {
       "testimonial1": "La professeure Alexandra a été impeccable avec moi et s'est toujours montrée disponible, je la recommande à tous ceux qui ont besoin d'aide en comptabilité, car à chaque fois que j'en aurai besoin, c'est vers elle que je me tournerai.",
       "testimonial2": "Le travail développé par le professeur d'économie était méthodique, extrêmement organisé et efficace. Il s'agissait d'un travail responsable. L'expérience a été extraordinaire et les résultats escomptés ont été atteints.",
       "testimonial3": "Professeur très explicatif avec flexibilité d'horaire.",
-      "testimonial4": "Merci pour l'excellente organisation et la préparation à l'examen."
+      "testimonial4": "Merci pour l'excellente organisation et la préparation à l'examen.",
+      "testimonial5": "Merci beaucoup! C'était très important pour la réussite de Catarina d'avoir été avec vous! Reconnaissante pour tout.",
+      "testimonial6": "Je voudrais exprimer ma satisfaction quant aux performances de Rodrigo depuis qu'il a des cours avec les professeurs d'Einstein."
     }
   },
   "Contact": {

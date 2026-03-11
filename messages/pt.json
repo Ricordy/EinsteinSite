@@ -157,13 +157,17 @@
       "testimonial1": "Aluno de contabilidade",
       "testimonial2": "Encarregado de educação de uma aluna de economia",
       "testimonial3": "Aluna de matemática",
-      "testimonial4": "Aluna de economia"
+      "testimonial4": "Aluna de economia",
+      "testimonial5": "Encarregada de educação de aluna do 12º ano",
+      "testimonial6": "Encarregada de educação de aluno do 6º ano"
     },
     "content": {
       "testimonial1": "A explicadora Alexandra foi impecável comigo e sempre se mostrou disponível, recomendo a quem precisar de ajuda na área de contabilidade, pois eu sempre que precisei será explicadora Alexandra a quem irei recorrer.",
       "testimonial2": "O trabalho desenvolvido pela professora de Economia foi metódico, extremamente organizado e eficaz. Foi um trabalho responsável. A Experiência foi extraordinária e foram atingidos os resultados pretendidos.",
       "testimonial3": "Professor muito bom, explica bem e tem flexibilidade de horário",
-      "testimonial4": "Obrigada pela excelente organizaçao e preparaçao para o exame"
+      "testimonial4": "Obrigada pela excelente organizaçao e preparaçao para o exame",
+      "testimonial5": "Muito obrigado! Obg por tudo foi muito importante para o sucesso da Catarina ter estado aí convosco! Grata por tudo.",
+      "testimonial6": "Aproveito para manifestar o meu contentamento com o desempenho do Rodrigo, desde que tem explicação com as professoras do Einstein."
     }
   },
   "Contact": {

@@ -156,13 +156,17 @@
       "testimonial1": "Estudiante de contabilidad",
       "testimonial2": "Padre de una estudiante de economía",
       "testimonial3": "Estudiante de matemáticas",
-      "testimonial4": "Estudiante de economía"
+      "testimonial4": "Estudiante de economía",
+      "testimonial5": "Madre de estudiante de 12º curso",
+      "testimonial6": "Madre de estudiante de 6º curso"
     },
     "content": {
       "testimonial1": "La profesora Alexandra fue impecable conmigo y siempre se mostró disponible, recomiendo a quien necesite ayuda en el área de contabilidad, pues siempre que lo necesite, la profesora Alexandra será a quien recurriré.",
       "testimonial2": "El trabajo desarrollado por la profesora de Economía fue metódico, extremadamente organizado y eficaz. Fue un trabajo responsable. La experiencia fue extraordinaria y se alcanzaron los resultados deseados.",
       "testimonial3": "Profesor muy bueno, explica bien y tiene flexibilidad de horario",
-      "testimonial4": "Gracias por la excelente organización y preparación para el examen"
+      "testimonial4": "Gracias por la excelente organización y preparación para el examen",
+      "testimonial5": "¡Muchas gracias! Fue muy importante para el éxito de Catarina haber estado con ustedes. Agradecida por todo.",
+      "testimonial6": "Me gustaría expresar mi satisfacción con el desempeño de Rodrigo desde que tiene clases con los profesores de Einstein."
     }
   },
   "Contact": {

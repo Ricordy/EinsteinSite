@@ -159,13 +159,17 @@
       "testimonial1": "Accounting student",
       "testimonial2": "Guardian of an Economics student",
       "testimonial3": "Maths student",
-      "testimonial4": "Economics student"
+      "testimonial4": "Economics student",
+      "testimonial5": "Guardian of a 12th grade student",
+      "testimonial6": "Guardian of a 6th grade student"
     },
     "content": {
       "testimonial1": "Teacher Alexandra was impeccable with me and always showed availability, I recommend to anyone who needs help in accounting, as whenever I needed it will be teacher Alexandra who I will turn to.",
       "testimonial2": "The work developed by the Economics teacher was methodical, extremely organized and effective. It was responsible work. The experience was extraordinary and the intended results were achieved.",
       "testimonial3": "Very well-explainative teacher with schedule flexibility",
-      "testimonial4": "Thank you for the excellent organization and preparation for the exam."
+      "testimonial4": "Thank you for the excellent organization and preparation for the exam.",
+      "testimonial5": "Thank you so much! It was very important for Catarina's success to have been with you! Grateful for everything.",
+      "testimonial6": "I would like to express my satisfaction with Rodrigo's performance since he started having lessons with Einstein's teachers."
     }
   },
   "Contact": {
