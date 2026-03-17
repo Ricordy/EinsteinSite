@@ -170,7 +170,7 @@ export function Header() {
                         </div>
                       </SelectItem>
                     </SelectContent>
-                  </Select>
+                  </Select>  
                 </nav>
               </SheetContent>
             </Sheet>
