@@ -13,6 +13,7 @@ import { Button } from "@/components/ui/button";
 import ContactUsButtons from "@/components/utilities/ContactUsButtons";
 import { WhyUs } from "@/components/WhyUs";
 import { JsonLd } from "@/components/JsonLd";
+import FaqJsonLd from "@/components/FaqJsonLd";
 
 type Props = {
   params: { locale: string };
@@ -60,10 +61,10 @@ export async function generateMetadata(
     alternates: {
       canonical: `https://www.einsteinexplicacoes.pt/${locale}`,
       languages: {
-        en: "/en",
-        pt: "/pt",
-        fr: "/fr",
-        es: "/es",
+        en: "https://www.einsteinexplicacoes.pt/en",
+        pt: "https://www.einsteinexplicacoes.pt/pt",
+        fr: "https://www.einsteinexplicacoes.pt/fr",
+        es: "https://www.einsteinexplicacoes.pt/es",
       },
     },
     robots: {
@@ -98,6 +99,7 @@ export default async function Home({ params: { locale } }: Props) {
           "https://www.linkedin.com/company/einstein-explicacoes",
         ]}
       />
+      <FaqJsonLd />
       <Header />
       <main>
         <Hero />

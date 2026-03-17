@@ -53,7 +53,7 @@
     "twitterDescription": "Explicações especializadas em Faro, Portugal. Explicações individuais, em grupo e online disponíveis.",
     "twitterImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg",
     "siteName": "Einstein Explicações",
-    "keywords": "explicações, explicações individuais, explicações em grupo, explicações online, ensino, sucesso académico, Faro, Portugal, universidade, 12º ano, 2º ciclo, 3º ciclo, ensino básico, ensino secundário, explicador, explicadora, explicadores, explicadoras, explicação, explicaçãoes, explicaçãoes individuais, explicaçãoes em grupo, explicaçãoes online, explicaçãoes de matemática, explicaçãoes de português, explicaçãoes de inglês, explicaçãoes de biologia, explicaçãoes de geografia, explicaçãoes de história, explicaçãoes de filosofia, explicaçãoes de contabilidade, explicações de físico-química, explicaçãoes de economia, explicaçãoes de MACS, explicaçãoes de ciências, explicaçãoes de economia, explicaçãoes de geografia, explicaçãoes de história, explicaçãoes de filosofia, explicaçãoes de contabilidade, explicações de fisica e quimica"
+    "keywords": "explicações, explicações individuais, explicações em grupo, explicações online, explicações Faro, explicações Portugal, ensino, sucesso académico, universidade, 12º ano, 2º ciclo, 3º ciclo, ensino básico, ensino secundário, explicador, explicadora, explicação de matemática, explicação de português, explicação de inglês, explicação de biologia, explicação de geografia, explicação de história, explicação de filosofia, explicação de contabilidade, explicação de físico-química, explicação de economia, explicação de MACS, explicação de ciências, explicação de física, explicação de química, explicação de geometria descritiva, explicação de desenho, explicação de análise de circuitos"
   },
     "StructuredData": {
     "name": "Einstein Explicações",
@@ -64,8 +64,24 @@
       "postalCode": "8000-218",
       "addressCountry": "PT"
     },
+    "geo": {
+      "latitude": "37.019659805849905",
+      "longitude": "-7.926154505037054"
+    },
     "telephone": "+351910672248",
-    "url": "https://einsteinexplicacoes.pt"
+    "url": "https://www.einsteinexplicacoes.pt"
+  },
+  "Faq": {
+    "q1": "Quais os serviços de explicações que oferecem?",
+    "a1": "Oferecemos explicações individuais, explicações em grupo e explicações online para todas as disciplinas do 2º ciclo ao universitário.",
+    "q2": "Onde está localizado o centro de explicações?",
+    "a2": "Estamos localizados em Faro, Portugal, na Rua Ataide De Oliveira 73b Loja 9, código postal 8000-218.",
+    "q3": "Quais os anos escolares que abrangem?",
+    "a3": "Abrangemos desde o 2º ciclo (5º e 6º ano) até ao 12º ano, incluindo também explicações universitárias para mais de 50 cursos.",
+    "q4": "Como posso contactar para marcar explicações?",
+    "a4": "Pode contactar-nos através do telefone +351910672248, pelo formulário no nosso site ou através das nossas redes sociais.",
+    "q5": "Quanto tempo de experiência têm?",
+    "a5": "Temos mais de 10 anos de experiência a guiar alunos ao sucesso académico, com mais de 1500 alunos atendidos."
   },
   
   "Offerings": {
@@ -129,7 +145,9 @@
       "fqM": "Explicador de Físico-Química",
       "fqF": "Explicadora de Físico-Química",
       "economicsM": "Explicador de Economia",
-      "economicsF": "Explicadora de Economia"
+      "economicsF": "Explicadora de Economia",
+      "geometriaDesenhoF": "Explicadora de Geometria Descritiva e Desenho",
+      "analiseCircuitosM": "Explicador de Análise de Circuitos"
     }
   },
   "Common": {
@@ -141,13 +159,17 @@
       "testimonial1": "Aluno de contabilidade",
       "testimonial2": "Encarregado de educação de uma aluna de economia",
       "testimonial3": "Aluna de matemática",
-      "testimonial4": "Aluna de economia"
+      "testimonial4": "Aluna de economia",
+      "testimonial5": "Encarregada de educação de aluna do 12º ano",
+      "testimonial6": "Encarregada de educação de aluno do 6º ano"
     },
     "content": {
       "testimonial1": "A explicadora Alexandra foi impecável comigo e sempre se mostrou disponível, recomendo a quem precisar de ajuda na área de contabilidade, pois eu sempre que precisei será explicadora Alexandra a quem irei recorrer.",
       "testimonial2": "O trabalho desenvolvido pela professora de Economia foi metódico, extremamente organizado e eficaz. Foi um trabalho responsável. A Experiência foi extraordinária e foram atingidos os resultados pretendidos.",
       "testimonial3": "Professor muito bom, explica bem e tem flexibilidade de horário",
-      "testimonial4": "Obrigada pela excelente organizaçao e preparaçao para o exame"
+      "testimonial4": "Obrigada pela excelente organizaçao e preparaçao para o exame",
+      "testimonial5": "Muito obrigado! Obg por tudo foi muito importante para o sucesso da Catarina ter estado aí convosco! Grata por tudo.",
+      "testimonial6": "Aproveito para manifestar o meu contentamento com o desempenho do Rodrigo, desde que tem explicação com as professoras do Einstein."
     }
   },
   "Contact": {

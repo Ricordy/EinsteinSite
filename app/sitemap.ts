@@ -1,25 +1,26 @@
 import { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const baseUrl = "https://www.einsteinexplicacoes.pt";
   return [
     {
-      url: "https://einsteinexplicacoes.pt/",
+      url: baseUrl,
       lastModified: new Date(),
     },
     {
-      url: "https://einsteinexplicacoes.pt/pt",
+      url: `${baseUrl}/pt`,
       lastModified: new Date(),
     },
     {
-      url: "https://einsteinexplicacoes.pt/en",
+      url: `${baseUrl}/en`,
       lastModified: new Date(),
     },
     {
-      url: "https://einsteinexplicacoes.pt/es",
+      url: `${baseUrl}/es`,
       lastModified: new Date(),
     },
     {
-      url: "https://einsteinexplicacoes.pt/fr",
+      url: `${baseUrl}/fr`,
       lastModified: new Date(),
     },
   ];

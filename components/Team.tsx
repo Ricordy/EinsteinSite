@@ -73,13 +73,19 @@ export function Team() {
       id: 10,
       image: "/luismoura.jpg",
       name: "Luís Moura",
-      role: "mathM",
+      role: "analiseCircuitosM",
     },
     {
       id: 11,
       image: "/leonorribeiro.jpg",
       name: "Leonor Ribeiro",
       role: "historyF",
+    },
+    {
+      id: 12,
+      image: "/rutepaulo.jpeg",
+      name: "Rute Paulo",
+      role: "geometriaDesenhoF",
     },
   ];
 

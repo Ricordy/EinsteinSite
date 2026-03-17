@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/private/",
     },
-    sitemap: "https://einsteinexplicacoes.pt/sitemap.xml",
+    sitemap: "https://www.einsteinexplicacoes.pt/sitemap.xml",
   };
 }

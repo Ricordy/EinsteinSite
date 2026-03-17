@@ -39,6 +39,18 @@ export function Testimonials() {
       subject: "testimonial4",
       content: "testimonial4",
     },
+    {
+      id: 5,
+      name: "Paula",
+      subject: "testimonial5",
+      content: "testimonial5",
+    },
+    {
+      id: 6,
+      name: "Carla",
+      subject: "testimonial6",
+      content: "testimonial6",
+    },
   ];
 
   return (
