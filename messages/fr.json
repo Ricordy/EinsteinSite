@@ -53,7 +53,7 @@
     "twitterDescription": "Tutorat expert à Faro, Portugal. Cours individuels, en groupe et en ligne disponibles.",
     "twitterImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg",
     "siteName": "Einstein Explications",
-    "keywords": "tutorat, tutorat individuel, tutorat de groupe, tutorat en ligne, tutorat Faro, tutorat Portugal, enseignement, réussite scolaire, université, lycée, cours de mathématiques, cours de portugais, cours d'anglais, cours de biologie, cours de géographie, cours d'histoire, cours de philosophie, cours de comptabilité, cours de physique, cours de chimie, cours d'économie, cours de sciences"
+    "keywords": "tutorat, tutorat individuel, tutorat de groupe, tutorat en ligne, tutorat Faro, tutorat Portugal, enseignement, réussite scolaire, université, lycée, cours de mathématiques, cours de portugais, cours d'anglais, cours de biologie, cours de géographie, cours d'histoire, cours de philosophie, cours de comptabilité, cours de physique, cours de chimie, cours d'économie, cours de sciences, cours de géométrie descriptive, cours de dessin, cours d'analyse de circuits"
   },
   "StructuredData": {
     "name": "Einstein Explications",
@@ -147,7 +147,9 @@
       "fqM": "Professeur de physique-chimie",
       "fqF": "Professeur de physique-chimie",
       "economicsM": "Professeur d'économie",
-      "economicsF": "Professeur d'économie"
+      "economicsF": "Professeur d'économie",
+      "geometriaDesenhoF": "Professeur de géométrie descriptive et dessin",
+      "analiseCircuitosM": "Professeur d'analyse de circuits"
     }
   },
   "Common": {

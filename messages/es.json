@@ -53,7 +53,7 @@
     "twitterDescription": "Tutoría experta en Faro, Portugal. Explicaciones individuales, grupales y en línea disponibles.",
     "twitterImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg",
     "siteName": "Einstein Explicaciones",
-    "keywords": "tutoría, tutorías individuales, tutorías en grupo, tutorías online, tutorías Faro, tutorías Portugal, enseñanza, éxito académico, universidad, secundaria, clases de matemáticas, clases de portugués, clases de inglés, clases de biología, clases de geografía, clases de historia, clases de filosofía, clases de contabilidad, clases de física, clases de química, clases de economía, clases de ciencias"
+    "keywords": "tutoría, tutorías individuales, tutorías en grupo, tutorías online, tutorías Faro, tutorías Portugal, enseñanza, éxito académico, universidad, secundaria, clases de matemáticas, clases de portugués, clases de inglés, clases de biología, clases de geografía, clases de historia, clases de filosofía, clases de contabilidad, clases de física, clases de química, clases de economía, clases de ciencias, clases de geometría descriptiva, clases de dibujo, clases de análisis de circuitos"
   },
   "StructuredData": {
     "name": "Centro Einstein Explicaciones",
@@ -144,7 +144,9 @@
       "fqM": "Profesor de Física y Química",
       "fqF": "Profesora de Física y Química",
       "economicsM": "Profesor de Economía",
-      "economicsF": "Profesora de Economía"
+      "economicsF": "Profesora de Economía",
+      "geometriaDesenhoF": "Explicadora de Geometría Descriptiva y Dibujo",
+      "analiseCircuitosM": "Explicador de Análisis de Circuitos"
     }
   },
   "Common": {

@@ -53,7 +53,7 @@
     "twitterDescription": "Expert tutoring in Faro, Portugal. Individual, group, and online classes available.",
     "twitterImage": "https://www.einsteinexplicacoes.pt/EinsteinLogoGreen.svg",
     "siteName": "Einstein Education Center",
-    "keywords": "tutoring, individual tutoring, group tutoring, online tutoring, tutoring Faro, tutoring Portugal, teaching, academic success, university, 12th grade, secondary education, maths tutoring, Portuguese tutoring, English tutoring, biology tutoring, geography tutoring, history tutoring, philosophy tutoring, accounting tutoring, physics tutoring, chemistry tutoring, economics tutoring, science tutoring"
+    "keywords": "tutoring, individual tutoring, group tutoring, online tutoring, tutoring Faro, tutoring Portugal, teaching, academic success, university, 12th grade, secondary education, maths tutoring, Portuguese tutoring, English tutoring, biology tutoring, geography tutoring, history tutoring, philosophy tutoring, accounting tutoring, physics tutoring, chemistry tutoring, economics tutoring, science tutoring, descriptive geometry tutoring, drawing tutoring, circuit analysis tutoring"
   },
   "StructuredData": {
     "name": "Einstein Education Center",
@@ -147,7 +147,9 @@
       "fqM": "Physics and Chemistry Tutor",
       "fqF": "Physics and Chemistry Tutor",
       "economicsM": "Economics Tutor",
-      "economicsF": "Economics Tutor"
+      "economicsF": "Economics Tutor",
+      "geometriaDesenhoF": "Descriptive Geometry and Drawing Tutor",
+      "analiseCircuitosM": "Circuit Analysis Tutor"
     }
   },
   "Common": {
