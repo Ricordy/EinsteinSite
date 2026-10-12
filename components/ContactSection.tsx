@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { Facebook, Instagram, Mail, Phone } from "lucide-react";
+import { BookText, Facebook, Instagram, Mail, Phone, Scale } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useTranslations } from "next-intl";
@@ -107,10 +107,15 @@ export function ContactSection() {
               </Link>
               <Link
                 href="tel:+351910672248"
-                className="flex items-center gap-3 text-gray-600 hover:text-gray-900"
+                className="flex items-start gap-3 text-gray-600 hover:text-gray-900"
               >
-                <Phone className="h-5 w-5" />
-                +351 910 672 248
+                <Phone className="h-5 w-5 mt-0.5" />
+                <span className="flex flex-col">
+                  <span>+351 910 672 248</span>
+                  <span className="text-xs text-gray-500">
+                    (custo para rede móvel nacional)
+                  </span>
+                </span>
               </Link>
               <Link
                 href="https://www.facebook.com/EinsteinExplicacoesFaro"
@@ -127,6 +132,24 @@ export function ContactSection() {
               >
                 <Instagram className="h-5 w-5" />
                 Instagram
+              </Link>
+              <Link
+                href="https://www.livroreclamacoes.pt/inicio"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-3 text-gray-600 hover:text-gray-900"
+              >
+                <BookText className="h-5 w-5" />
+                Livro de Reclamações
+              </Link>
+              <Link
+                href="https://consumoalgarve.pt/index.php/pt/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-3 text-gray-600 hover:text-gray-900"
+              >
+                <Scale className="h-5 w-5" />
+                CIMAAL
               </Link>
             </div>
           </div>
